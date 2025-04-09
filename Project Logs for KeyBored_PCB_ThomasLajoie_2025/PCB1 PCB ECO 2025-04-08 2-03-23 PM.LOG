@@ -1,0 +1,4 @@
+Added Component: Designator=R1(0603-CAPS)
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=LEDS_O Pin=R1-2
+Added Member To Class: ClassName=U_MCU Member=Component R1 333

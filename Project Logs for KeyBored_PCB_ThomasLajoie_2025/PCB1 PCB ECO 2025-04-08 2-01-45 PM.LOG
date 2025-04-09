@@ -1,0 +1,879 @@
+Added Component: Designator=C1(0603-CAPS)
+Added Component: Designator=C2(0603-CAPS)
+Added Component: Designator=C3(0603-CAPS)
+Added Component: Designator=C4(0603-CAPS)
+Added Component: Designator=C5(0603-CAPS)
+Added Component: Designator=C6(0603-CAPS)
+Added Component: Designator=C7(0603-CAPS)
+Added Component: Designator=C8(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel1(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel2(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel3(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel4(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel5(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel6(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel7(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel8(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel9(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel10(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel11(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel12(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel13(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel14(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel15(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel16(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel17(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel18(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel19(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel20(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel21(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel22(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel23(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel24(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel25(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel26(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel27(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel28(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel29(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel30(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel31(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel32(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel33(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel34(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel35(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel36(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel37(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel38(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel39(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel40(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel41(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel42(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel43(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel44(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel45(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel46(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel47(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel48(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel49(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel50(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel51(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel52(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel53(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel54(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel55(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel56(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel57(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel58(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel59(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel60(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel61(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel62(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel63(0603-CAPS)
+Added Component: Designator=C*_U_LED_Channel64(0603-CAPS)
+Added Component: Designator=D1(1N4148W(SOD123))
+Added Component: Designator=D2(1N4148W(SOD123))
+Added Component: Designator=D3(1N4148W(SOD123))
+Added Component: Designator=D4(1N4148W(SOD123))
+Added Component: Designator=D5(1N4148W(SOD123))
+Added Component: Designator=D6(1N4148W(SOD123))
+Added Component: Designator=D7(1N4148W(SOD123))
+Added Component: Designator=D8(1N4148W(SOD123))
+Added Component: Designator=D9(1N4148W(SOD123))
+Added Component: Designator=D10(1N4148W(SOD123))
+Added Component: Designator=D11(1N4148W(SOD123))
+Added Component: Designator=D12(1N4148W(SOD123))
+Added Component: Designator=D13(1N4148W(SOD123))
+Added Component: Designator=D14(1N4148W(SOD123))
+Added Component: Designator=D15(1N4148W(SOD123))
+Added Component: Designator=D16(1N4148W(SOD123))
+Added Component: Designator=D17(1N4148W(SOD123))
+Added Component: Designator=D18(1N4148W(SOD123))
+Added Component: Designator=D19(1N4148W(SOD123))
+Added Component: Designator=D20(1N4148W(SOD123))
+Added Component: Designator=D21(1N4148W(SOD123))
+Added Component: Designator=D22(1N4148W(SOD123))
+Added Component: Designator=D23(1N4148W(SOD123))
+Added Component: Designator=D24(1N4148W(SOD123))
+Added Component: Designator=D25(1N4148W(SOD123))
+Added Component: Designator=D26(1N4148W(SOD123))
+Added Component: Designator=D27(1N4148W(SOD123))
+Added Component: Designator=D28(1N4148W(SOD123))
+Added Component: Designator=D29(1N4148W(SOD123))
+Added Component: Designator=D30(1N4148W(SOD123))
+Added Component: Designator=D31(1N4148W(SOD123))
+Added Component: Designator=D32(1N4148W(SOD123))
+Added Component: Designator=D33(1N4148W(SOD123))
+Added Component: Designator=D34(1N4148W(SOD123))
+Added Component: Designator=D35(1N4148W(SOD123))
+Added Component: Designator=D36(1N4148W(SOD123))
+Added Component: Designator=D37(1N4148W(SOD123))
+Added Component: Designator=D38(1N4148W(SOD123))
+Added Component: Designator=D39(1N4148W(SOD123))
+Added Component: Designator=D40(1N4148W(SOD123))
+Added Component: Designator=D41(1N4148W(SOD123))
+Added Component: Designator=D42(1N4148W(SOD123))
+Added Component: Designator=D43(1N4148W(SOD123))
+Added Component: Designator=D44(1N4148W(SOD123))
+Added Component: Designator=D45(1N4148W(SOD123))
+Added Component: Designator=D46(1N4148W(SOD123))
+Added Component: Designator=D47(1N4148W(SOD123))
+Added Component: Designator=D48(1N4148W(SOD123))
+Added Component: Designator=D49(1N4148W(SOD123))
+Added Component: Designator=D50(1N4148W(SOD123))
+Added Component: Designator=D51(1N4148W(SOD123))
+Added Component: Designator=D52(1N4148W(SOD123))
+Added Component: Designator=D53(1N4148W(SOD123))
+Added Component: Designator=D54(1N4148W(SOD123))
+Added Component: Designator=D55(1N4148W(SOD123))
+Added Component: Designator=D56(1N4148W(SOD123))
+Added Component: Designator=D57(1N4148W(SOD123))
+Added Component: Designator=D58(1N4148W(SOD123))
+Added Component: Designator=D59(1N4148W(SOD123))
+Added Component: Designator=D60(1N4148W(SOD123))
+Added Component: Designator=D61(1N4148W(SOD123))
+Added Component: Designator=D62(1N4148W(SOD123))
+Added Component: Designator=D63(1N4148W(SOD123))
+Added Component: Designator=D64(1N4148W(SOD123))
+Added Component: Designator=J2(TE_5-146280-5)
+Added Component: Designator=MH1(MTH_ROUND_5.35D)
+Added Component: Designator=MH2(MTH_ROUND_5.35D)
+Added Component: Designator=MH3(MTH_ROUND_5.35D)
+Added Component: Designator=MH4(MTH_ROUND_5.35D)
+Added Component: Designator=MH5(MTH_ROUND_5.35D)
+Added Component: Designator=MH6(MTH_ROUND_5.35D)
+Added Component: Designator=MH7(MTH_ROUND_5.35D)
+Added Component: Designator=MH8(MTH_ROUND_5.35D)
+Added Component: Designator=MH9(MTH_ROUND_5.35D)
+Added Component: Designator=MH10(MTH_ROUND_5.35D)
+Added Component: Designator=MH11(MTH_OBLONG_3.9x2.9_PL)
+Added Component: Designator=MH12(MTH_OBLONG_3.9x2.9_PL)
+Added Component: Designator=MH13(MTH_OBLONG_3.9x2.9_PL)
+Added Component: Designator=MH14(MTH_ROUND_3D_PL)
+Added Component: Designator=MH15(MTH_ROUND_3D_PL)
+Added Component: Designator=MH16(STABILIZERS)
+Added Component: Designator=MH17(STABILIZERS)
+Added Component: Designator=MH18(STABILIZERS)
+Added Component: Designator=MH19(STABILIZERS)
+Added Component: Designator=MH20(STABILIZERS)
+Added Component: Designator=MH21(STABILIZERS)
+Added Component: Designator=MH22(STABILIZERS)
+Added Component: Designator=MH23(STABILIZERS)
+Added Component: Designator=S1(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S2(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S3(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S4(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S5(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S6(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S7(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S8(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S9(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S10(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S11(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S12(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S13(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S14(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S15(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S16(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S17(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S18(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S19(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S20(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S21(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S22(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S23(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S24(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S25(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S26(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S27(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S28(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S29(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S30(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S31(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S32(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S33(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S34(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S35(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S36(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S37(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S38(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S39(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S40(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S41(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S42(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S43(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S44(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S45(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S46(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S47(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S48(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S49(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S50(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S51(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S52(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S53(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S54(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S55(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S56(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S57(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S58(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S59(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S60(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S61(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S62(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S63(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Component: Designator=S64(GATERON_LOWPROFILE_HOTSWAP_SOCKET)
+Added Pin To Net: NetName=+3.3V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3.3V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+3.3V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+3.3V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+3.3V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VBUS Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+3.3V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel1-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel1-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel2-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel2-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel3-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel3-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel4-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel4-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel5-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel5-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel6-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel6-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel7-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel7-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel8-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel8-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel9-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel9-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel10-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel10-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel11-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel11-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel12-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel12-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel13-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel13-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel14-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel14-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel15-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel15-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel16-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel16-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel17-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel17-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel18-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel18-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel19-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel19-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel20-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel20-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel21-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel21-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel22-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel22-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel23-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel23-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel24-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel24-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel25-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel25-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel26-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel26-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel27-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel27-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel28-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel28-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel29-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel29-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel30-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel30-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel31-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel31-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel32-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel32-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel33-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel33-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel34-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel34-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel35-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel35-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel36-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel36-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel37-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel37-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel38-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel38-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel39-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel39-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel40-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel40-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel41-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel41-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel42-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel42-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel43-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel43-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel44-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel44-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel45-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel45-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel46-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel46-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel47-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel47-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel48-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel48-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel49-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel49-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel50-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel50-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel51-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel51-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel52-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel52-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel53-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel53-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel54-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel54-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel55-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel55-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel56-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel56-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel57-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel57-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel58-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel58-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel59-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel59-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel60-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel60-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel61-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel61-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel62-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel62-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel63-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel63-2
+Added Pin To Net: NetName=VBUS Pin=C*_U_LED_Channel64-1
+Added Pin To Net: NetName=GND Pin=C*_U_LED_Channel64-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=ROW1 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=ROW1 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=ROW1 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=ROW1 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=ROW1 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=ROW1 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=ROW1 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=ROW1 Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=ROW1 Pin=D9-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=ROW1 Pin=D10-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=ROW1 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=ROW1 Pin=D12-2
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=ROW1 Pin=D13-2
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=ROW1 Pin=D14-2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=ROW2 Pin=D15-2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=ROW2 Pin=D16-2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=ROW2 Pin=D17-2
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=ROW2 Pin=D18-2
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=ROW2 Pin=D19-2
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=ROW2 Pin=D20-2
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=ROW2 Pin=D21-2
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=ROW2 Pin=D22-2
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=ROW2 Pin=D23-2
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=ROW2 Pin=D24-2
+Added Pin To Net: NetName=NetD25_1 Pin=D25-1
+Added Pin To Net: NetName=ROW2 Pin=D25-2
+Added Pin To Net: NetName=NetD26_1 Pin=D26-1
+Added Pin To Net: NetName=ROW2 Pin=D26-2
+Added Pin To Net: NetName=NetD27_1 Pin=D27-1
+Added Pin To Net: NetName=ROW2 Pin=D27-2
+Added Pin To Net: NetName=NetD28_1 Pin=D28-1
+Added Pin To Net: NetName=ROW2 Pin=D28-2
+Added Pin To Net: NetName=NetD29_1 Pin=D29-1
+Added Pin To Net: NetName=ROW3 Pin=D29-2
+Added Pin To Net: NetName=NetD30_1 Pin=D30-1
+Added Pin To Net: NetName=ROW3 Pin=D30-2
+Added Pin To Net: NetName=NetD31_1 Pin=D31-1
+Added Pin To Net: NetName=ROW3 Pin=D31-2
+Added Pin To Net: NetName=NetD32_1 Pin=D32-1
+Added Pin To Net: NetName=ROW3 Pin=D32-2
+Added Pin To Net: NetName=NetD33_1 Pin=D33-1
+Added Pin To Net: NetName=ROW3 Pin=D33-2
+Added Pin To Net: NetName=NetD34_1 Pin=D34-1
+Added Pin To Net: NetName=ROW3 Pin=D34-2
+Added Pin To Net: NetName=NetD35_1 Pin=D35-1
+Added Pin To Net: NetName=ROW3 Pin=D35-2
+Added Pin To Net: NetName=NetD36_1 Pin=D36-1
+Added Pin To Net: NetName=ROW3 Pin=D36-2
+Added Pin To Net: NetName=NetD37_1 Pin=D37-1
+Added Pin To Net: NetName=ROW3 Pin=D37-2
+Added Pin To Net: NetName=NetD38_1 Pin=D38-1
+Added Pin To Net: NetName=ROW3 Pin=D38-2
+Added Pin To Net: NetName=NetD39_1 Pin=D39-1
+Added Pin To Net: NetName=ROW3 Pin=D39-2
+Added Pin To Net: NetName=NetD40_1 Pin=D40-1
+Added Pin To Net: NetName=ROW3 Pin=D40-2
+Added Pin To Net: NetName=NetD41_1 Pin=D41-1
+Added Pin To Net: NetName=ROW3 Pin=D41-2
+Added Pin To Net: NetName=NetD42_1 Pin=D42-1
+Added Pin To Net: NetName=ROW4 Pin=D42-2
+Added Pin To Net: NetName=NetD43_1 Pin=D43-1
+Added Pin To Net: NetName=ROW4 Pin=D43-2
+Added Pin To Net: NetName=NetD44_1 Pin=D44-1
+Added Pin To Net: NetName=ROW4 Pin=D44-2
+Added Pin To Net: NetName=NetD45_1 Pin=D45-1
+Added Pin To Net: NetName=ROW4 Pin=D45-2
+Added Pin To Net: NetName=NetD46_1 Pin=D46-1
+Added Pin To Net: NetName=ROW4 Pin=D46-2
+Added Pin To Net: NetName=NetD47_1 Pin=D47-1
+Added Pin To Net: NetName=ROW4 Pin=D47-2
+Added Pin To Net: NetName=NetD48_1 Pin=D48-1
+Added Pin To Net: NetName=ROW4 Pin=D48-2
+Added Pin To Net: NetName=NetD49_1 Pin=D49-1
+Added Pin To Net: NetName=ROW4 Pin=D49-2
+Added Pin To Net: NetName=NetD50_1 Pin=D50-1
+Added Pin To Net: NetName=ROW4 Pin=D50-2
+Added Pin To Net: NetName=NetD51_1 Pin=D51-1
+Added Pin To Net: NetName=ROW4 Pin=D51-2
+Added Pin To Net: NetName=NetD52_1 Pin=D52-1
+Added Pin To Net: NetName=ROW4 Pin=D52-2
+Added Pin To Net: NetName=NetD53_1 Pin=D53-1
+Added Pin To Net: NetName=ROW4 Pin=D53-2
+Added Pin To Net: NetName=NetD54_1 Pin=D54-1
+Added Pin To Net: NetName=ROW4 Pin=D54-2
+Added Pin To Net: NetName=NetD55_1 Pin=D55-1
+Added Pin To Net: NetName=ROW4 Pin=D55-2
+Added Pin To Net: NetName=NetD56_1 Pin=D56-1
+Added Pin To Net: NetName=ROW5 Pin=D56-2
+Added Pin To Net: NetName=NetD57_1 Pin=D57-1
+Added Pin To Net: NetName=ROW5 Pin=D57-2
+Added Pin To Net: NetName=NetD58_1 Pin=D58-1
+Added Pin To Net: NetName=ROW5 Pin=D58-2
+Added Pin To Net: NetName=NetD59_1 Pin=D59-1
+Added Pin To Net: NetName=ROW5 Pin=D59-2
+Added Pin To Net: NetName=NetD60_1 Pin=D60-1
+Added Pin To Net: NetName=ROW5 Pin=D60-2
+Added Pin To Net: NetName=NetD61_1 Pin=D61-1
+Added Pin To Net: NetName=ROW5 Pin=D61-2
+Added Pin To Net: NetName=NetD62_1 Pin=D62-1
+Added Pin To Net: NetName=ROW5 Pin=D62-2
+Added Pin To Net: NetName=NetD63_1 Pin=D63-1
+Added Pin To Net: NetName=ROW5 Pin=D63-2
+Added Pin To Net: NetName=NetD64_1 Pin=D64-1
+Added Pin To Net: NetName=ROW5 Pin=D64-2
+Added Pin To Net: NetName=+3.3V Pin=J2-1
+Added Pin To Net: NetName=SWDIO Pin=J2-2
+Added Pin To Net: NetName=SWCLK Pin=J2-3
+Added Pin To Net: NetName=\N\R\S\T\ Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NetMH1_1 Pin=MH1-1
+Added Pin To Net: NetName=NetMH2_1 Pin=MH2-1
+Added Pin To Net: NetName=NetMH3_1 Pin=MH3-1
+Added Pin To Net: NetName=NetMH4_1 Pin=MH4-1
+Added Pin To Net: NetName=NetMH5_1 Pin=MH5-1
+Added Pin To Net: NetName=NetMH6_1 Pin=MH6-1
+Added Pin To Net: NetName=NetMH7_1 Pin=MH7-1
+Added Pin To Net: NetName=NetMH8_1 Pin=MH8-1
+Added Pin To Net: NetName=NetMH9_1 Pin=MH9-1
+Added Pin To Net: NetName=NetMH10_1 Pin=MH10-1
+Added Pin To Net: NetName=GND Pin=MH11-1
+Added Pin To Net: NetName=GND Pin=MH12-1
+Added Pin To Net: NetName=GND Pin=MH13-1
+Added Pin To Net: NetName=GND Pin=MH14-1
+Added Pin To Net: NetName=GND Pin=MH15-1
+Added Pin To Net: NetName=NetMH16_1 Pin=MH16-1
+Added Pin To Net: NetName=NetMH17_1 Pin=MH17-1
+Added Pin To Net: NetName=NetMH18_1 Pin=MH18-1
+Added Pin To Net: NetName=NetMH19_1 Pin=MH19-1
+Added Pin To Net: NetName=NetMH20_1 Pin=MH20-1
+Added Pin To Net: NetName=NetMH21_1 Pin=MH21-1
+Added Pin To Net: NetName=NetMH22_1 Pin=MH22-1
+Added Pin To Net: NetName=NetMH23_1 Pin=MH23-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Pin To Net: NetName=NetD1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_2 Pin=S1-2
+Added Pin To Net: NetName=NetD2_1 Pin=S2-1
+Added Pin To Net: NetName=NetS2_2 Pin=S2-2
+Added Pin To Net: NetName=NetD3_1 Pin=S3-1
+Added Pin To Net: NetName=NetS3_2 Pin=S3-2
+Added Pin To Net: NetName=NetD4_1 Pin=S4-1
+Added Pin To Net: NetName=NetS4_2 Pin=S4-2
+Added Pin To Net: NetName=NetD5_1 Pin=S5-1
+Added Pin To Net: NetName=NetS5_2 Pin=S5-2
+Added Pin To Net: NetName=NetD6_1 Pin=S6-1
+Added Pin To Net: NetName=NetS6_2 Pin=S6-2
+Added Pin To Net: NetName=NetD7_1 Pin=S7-1
+Added Pin To Net: NetName=NetS7_2 Pin=S7-2
+Added Pin To Net: NetName=NetD8_1 Pin=S8-1
+Added Pin To Net: NetName=NetS8_2 Pin=S8-2
+Added Pin To Net: NetName=NetD9_1 Pin=S9-1
+Added Pin To Net: NetName=NetS9_2 Pin=S9-2
+Added Pin To Net: NetName=NetD10_1 Pin=S10-1
+Added Pin To Net: NetName=NetS10_2 Pin=S10-2
+Added Pin To Net: NetName=NetD11_1 Pin=S11-1
+Added Pin To Net: NetName=NetS11_2 Pin=S11-2
+Added Pin To Net: NetName=NetD12_1 Pin=S12-1
+Added Pin To Net: NetName=NetS12_2 Pin=S12-2
+Added Pin To Net: NetName=NetD13_1 Pin=S13-1
+Added Pin To Net: NetName=NetS13_2 Pin=S13-2
+Added Pin To Net: NetName=NetD14_1 Pin=S14-1
+Added Pin To Net: NetName=NetS14_2 Pin=S14-2
+Added Pin To Net: NetName=NetD15_1 Pin=S15-1
+Added Pin To Net: NetName=NetS1_2 Pin=S15-2
+Added Pin To Net: NetName=NetD16_1 Pin=S16-1
+Added Pin To Net: NetName=NetS2_2 Pin=S16-2
+Added Pin To Net: NetName=NetD17_1 Pin=S17-1
+Added Pin To Net: NetName=NetS3_2 Pin=S17-2
+Added Pin To Net: NetName=NetD18_1 Pin=S18-1
+Added Pin To Net: NetName=NetS4_2 Pin=S18-2
+Added Pin To Net: NetName=NetD19_1 Pin=S19-1
+Added Pin To Net: NetName=NetS5_2 Pin=S19-2
+Added Pin To Net: NetName=NetD20_1 Pin=S20-1
+Added Pin To Net: NetName=NetS6_2 Pin=S20-2
+Added Pin To Net: NetName=NetD21_1 Pin=S21-1
+Added Pin To Net: NetName=NetS7_2 Pin=S21-2
+Added Pin To Net: NetName=NetD22_1 Pin=S22-1
+Added Pin To Net: NetName=NetS8_2 Pin=S22-2
+Added Pin To Net: NetName=NetD23_1 Pin=S23-1
+Added Pin To Net: NetName=NetS9_2 Pin=S23-2
+Added Pin To Net: NetName=NetD24_1 Pin=S24-1
+Added Pin To Net: NetName=NetS10_2 Pin=S24-2
+Added Pin To Net: NetName=NetD25_1 Pin=S25-1
+Added Pin To Net: NetName=NetS11_2 Pin=S25-2
+Added Pin To Net: NetName=NetD26_1 Pin=S26-1
+Added Pin To Net: NetName=NetS12_2 Pin=S26-2
+Added Pin To Net: NetName=NetD27_1 Pin=S27-1
+Added Pin To Net: NetName=NetS13_2 Pin=S27-2
+Added Pin To Net: NetName=NetD28_1 Pin=S28-1
+Added Pin To Net: NetName=NetS14_2 Pin=S28-2
+Added Pin To Net: NetName=NetD29_1 Pin=S29-1
+Added Pin To Net: NetName=NetS1_2 Pin=S29-2
+Added Pin To Net: NetName=NetD30_1 Pin=S30-1
+Added Pin To Net: NetName=NetS2_2 Pin=S30-2
+Added Pin To Net: NetName=NetD31_1 Pin=S31-1
+Added Pin To Net: NetName=NetS3_2 Pin=S31-2
+Added Pin To Net: NetName=NetD32_1 Pin=S32-1
+Added Pin To Net: NetName=NetS4_2 Pin=S32-2
+Added Pin To Net: NetName=NetD33_1 Pin=S33-1
+Added Pin To Net: NetName=NetS5_2 Pin=S33-2
+Added Pin To Net: NetName=NetD34_1 Pin=S34-1
+Added Pin To Net: NetName=NetS6_2 Pin=S34-2
+Added Pin To Net: NetName=NetD35_1 Pin=S35-1
+Added Pin To Net: NetName=NetS7_2 Pin=S35-2
+Added Pin To Net: NetName=NetD36_1 Pin=S36-1
+Added Pin To Net: NetName=NetS8_2 Pin=S36-2
+Added Pin To Net: NetName=NetD37_1 Pin=S37-1
+Added Pin To Net: NetName=NetS9_2 Pin=S37-2
+Added Pin To Net: NetName=NetD38_1 Pin=S38-1
+Added Pin To Net: NetName=NetS10_2 Pin=S38-2
+Added Pin To Net: NetName=NetD39_1 Pin=S39-1
+Added Pin To Net: NetName=NetS11_2 Pin=S39-2
+Added Pin To Net: NetName=NetD40_1 Pin=S40-1
+Added Pin To Net: NetName=NetS12_2 Pin=S40-2
+Added Pin To Net: NetName=NetD41_1 Pin=S41-1
+Added Pin To Net: NetName=NetS14_2 Pin=S41-2
+Added Pin To Net: NetName=NetD42_1 Pin=S42-1
+Added Pin To Net: NetName=NetS1_2 Pin=S42-2
+Added Pin To Net: NetName=NetD43_1 Pin=S43-1
+Added Pin To Net: NetName=NetS2_2 Pin=S43-2
+Added Pin To Net: NetName=NetD44_1 Pin=S44-1
+Added Pin To Net: NetName=NetS3_2 Pin=S44-2
+Added Pin To Net: NetName=NetD45_1 Pin=S45-1
+Added Pin To Net: NetName=NetS4_2 Pin=S45-2
+Added Pin To Net: NetName=NetD46_1 Pin=S46-1
+Added Pin To Net: NetName=NetS5_2 Pin=S46-2
+Added Pin To Net: NetName=NetD47_1 Pin=S47-1
+Added Pin To Net: NetName=NetS6_2 Pin=S47-2
+Added Pin To Net: NetName=NetD48_1 Pin=S48-1
+Added Pin To Net: NetName=NetS7_2 Pin=S48-2
+Added Pin To Net: NetName=NetD49_1 Pin=S49-1
+Added Pin To Net: NetName=NetS8_2 Pin=S49-2
+Added Pin To Net: NetName=NetD50_1 Pin=S50-1
+Added Pin To Net: NetName=NetS9_2 Pin=S50-2
+Added Pin To Net: NetName=NetD51_1 Pin=S51-1
+Added Pin To Net: NetName=NetS10_2 Pin=S51-2
+Added Pin To Net: NetName=NetD52_1 Pin=S52-1
+Added Pin To Net: NetName=NetS11_2 Pin=S52-2
+Added Pin To Net: NetName=NetD53_1 Pin=S53-1
+Added Pin To Net: NetName=NetS12_2 Pin=S53-2
+Added Pin To Net: NetName=NetD54_1 Pin=S54-1
+Added Pin To Net: NetName=NetS13_2 Pin=S54-2
+Added Pin To Net: NetName=NetD55_1 Pin=S55-1
+Added Pin To Net: NetName=NetS14_2 Pin=S55-2
+Added Pin To Net: NetName=NetD56_1 Pin=S56-1
+Added Pin To Net: NetName=NetS1_2 Pin=S56-2
+Added Pin To Net: NetName=NetD57_1 Pin=S57-1
+Added Pin To Net: NetName=NetS2_2 Pin=S57-2
+Added Pin To Net: NetName=NetD58_1 Pin=S58-1
+Added Pin To Net: NetName=NetS3_2 Pin=S58-2
+Added Pin To Net: NetName=NetD59_1 Pin=S59-1
+Added Pin To Net: NetName=NetS6_2 Pin=S59-2
+Added Pin To Net: NetName=NetD60_1 Pin=S60-1
+Added Pin To Net: NetName=NetS10_2 Pin=S60-2
+Added Pin To Net: NetName=NetD61_1 Pin=S61-1
+Added Pin To Net: NetName=NetS11_2 Pin=S61-2
+Added Pin To Net: NetName=NetD62_1 Pin=S62-1
+Added Pin To Net: NetName=NetS12_2 Pin=S62-2
+Added Pin To Net: NetName=NetD63_1 Pin=S63-1
+Added Pin To Net: NetName=NetS13_2 Pin=S63-2
+Added Pin To Net: NetName=NetD64_1 Pin=S64-1
+Added Pin To Net: NetName=NetS14_2 Pin=S64-2
+Added Member To Class: ClassName=U_MCU Member=Component C1 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C2 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C3 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C4 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C5 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C6 10uF
+Added Member To Class: ClassName=U_MCU Member=Component C7 1uF
+Added Member To Class: ClassName=U_MCU Member=Component C8 1uF
+Added Member To Class: ClassName=U_LED_Channel1 Member=Component C*_U_LED_Channel1 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel2 Member=Component C*_U_LED_Channel2 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel3 Member=Component C*_U_LED_Channel3 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel4 Member=Component C*_U_LED_Channel4 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel5 Member=Component C*_U_LED_Channel5 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel6 Member=Component C*_U_LED_Channel6 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel7 Member=Component C*_U_LED_Channel7 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel8 Member=Component C*_U_LED_Channel8 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel9 Member=Component C*_U_LED_Channel9 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel10 Member=Component C*_U_LED_Channel10 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel11 Member=Component C*_U_LED_Channel11 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel12 Member=Component C*_U_LED_Channel12 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel13 Member=Component C*_U_LED_Channel13 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel14 Member=Component C*_U_LED_Channel14 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel15 Member=Component C*_U_LED_Channel15 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel16 Member=Component C*_U_LED_Channel16 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel17 Member=Component C*_U_LED_Channel17 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel18 Member=Component C*_U_LED_Channel18 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel19 Member=Component C*_U_LED_Channel19 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel20 Member=Component C*_U_LED_Channel20 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel21 Member=Component C*_U_LED_Channel21 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel22 Member=Component C*_U_LED_Channel22 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel23 Member=Component C*_U_LED_Channel23 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel24 Member=Component C*_U_LED_Channel24 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel25 Member=Component C*_U_LED_Channel25 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel26 Member=Component C*_U_LED_Channel26 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel27 Member=Component C*_U_LED_Channel27 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel28 Member=Component C*_U_LED_Channel28 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel29 Member=Component C*_U_LED_Channel29 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel30 Member=Component C*_U_LED_Channel30 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel31 Member=Component C*_U_LED_Channel31 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel32 Member=Component C*_U_LED_Channel32 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel33 Member=Component C*_U_LED_Channel33 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel34 Member=Component C*_U_LED_Channel34 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel35 Member=Component C*_U_LED_Channel35 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel36 Member=Component C*_U_LED_Channel36 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel37 Member=Component C*_U_LED_Channel37 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel38 Member=Component C*_U_LED_Channel38 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel39 Member=Component C*_U_LED_Channel39 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel40 Member=Component C*_U_LED_Channel40 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel41 Member=Component C*_U_LED_Channel41 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel42 Member=Component C*_U_LED_Channel42 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel43 Member=Component C*_U_LED_Channel43 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel44 Member=Component C*_U_LED_Channel44 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel45 Member=Component C*_U_LED_Channel45 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel46 Member=Component C*_U_LED_Channel46 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel47 Member=Component C*_U_LED_Channel47 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel48 Member=Component C*_U_LED_Channel48 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel49 Member=Component C*_U_LED_Channel49 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel50 Member=Component C*_U_LED_Channel50 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel51 Member=Component C*_U_LED_Channel51 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel52 Member=Component C*_U_LED_Channel52 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel53 Member=Component C*_U_LED_Channel53 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel54 Member=Component C*_U_LED_Channel54 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel55 Member=Component C*_U_LED_Channel55 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel56 Member=Component C*_U_LED_Channel56 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel57 Member=Component C*_U_LED_Channel57 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel58 Member=Component C*_U_LED_Channel58 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel59 Member=Component C*_U_LED_Channel59 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel60 Member=Component C*_U_LED_Channel60 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel61 Member=Component C*_U_LED_Channel61 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel62 Member=Component C*_U_LED_Channel62 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel63 Member=Component C*_U_LED_Channel63 (C*) 100nF
+Added Member To Class: ClassName=U_LED_Channel64 Member=Component C*_U_LED_Channel64 (C*) 100nF
+Added Member To Class: ClassName=U_Matrice Member=Component D1 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D2 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D3 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D4 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D5 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D6 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D7 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D8 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D9 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D10 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D11 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D12 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D13 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D14 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D15 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D16 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D17 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D18 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D19 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D20 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D21 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D22 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D23 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D24 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D25 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D26 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D27 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D28 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D29 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D30 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D31 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D32 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D33 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D34 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D35 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D36 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D37 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D38 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D39 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D40 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D41 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D42 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D43 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D44 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D45 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D46 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D47 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D48 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D49 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D50 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D51 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D52 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D53 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D54 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D55 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D56 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D57 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D58 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D59 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D60 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D61 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D62 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D63 1N4148W
+Added Member To Class: ClassName=U_Matrice Member=Component D64 1N4148W
+Added Member To Class: ClassName=U_MCU Member=Component J2 Prog
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH1 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH2 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH3 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH4 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH5 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH6 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH7 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH8 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH9 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH10 5.3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH11 3.9x2.9mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH12 3.9x2.9mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH13 3.9x2.9mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH14 3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH15 3mm
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH16 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH17 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH18 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH19 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH20 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH21 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH22 Stabilizer
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH23 Stabilizer
+Add Class Member: Failed to add class member : Component R1 333
+Added Member To Class: ClassName=U_Matrice Member=Component S1 ESC
+Added Member To Class: ClassName=U_Matrice Member=Component S2 1!
+Added Member To Class: ClassName=U_Matrice Member=Component S3 2@
+Added Member To Class: ClassName=U_Matrice Member=Component S4 3#
+Added Member To Class: ClassName=U_Matrice Member=Component S5 4$
+Added Member To Class: ClassName=U_Matrice Member=Component S6 5%
+Added Member To Class: ClassName=U_Matrice Member=Component S7 6^
+Added Member To Class: ClassName=U_Matrice Member=Component S8 7&
+Added Member To Class: ClassName=U_Matrice Member=Component S9 8*
+Added Member To Class: ClassName=U_Matrice Member=Component S10 9(
+Added Member To Class: ClassName=U_Matrice Member=Component S11 0)
+Added Member To Class: ClassName=U_Matrice Member=Component S12 -_
+Added Member To Class: ClassName=U_Matrice Member=Component S13
+Added Member To Class: ClassName=U_Matrice Member=Component S14 BACK
+Added Member To Class: ClassName=U_Matrice Member=Component S15 TAB
+Added Member To Class: ClassName=U_Matrice Member=Component S16 Q
+Added Member To Class: ClassName=U_Matrice Member=Component S17 W
+Added Member To Class: ClassName=U_Matrice Member=Component S18 E
+Added Member To Class: ClassName=U_Matrice Member=Component S19 R
+Added Member To Class: ClassName=U_Matrice Member=Component S20 T
+Added Member To Class: ClassName=U_Matrice Member=Component S21 Y
+Added Member To Class: ClassName=U_Matrice Member=Component S22 U
+Added Member To Class: ClassName=U_Matrice Member=Component S23 I
+Added Member To Class: ClassName=U_Matrice Member=Component S24 O
+Added Member To Class: ClassName=U_Matrice Member=Component S25 P
+Added Member To Class: ClassName=U_Matrice Member=Component S26 [{
+Added Member To Class: ClassName=U_Matrice Member=Component S27 ]}
+Added Member To Class: ClassName=U_Matrice Member=Component S28 \|
+Added Member To Class: ClassName=U_Matrice Member=Component S29 CAPS
+Added Member To Class: ClassName=U_Matrice Member=Component S30 A
+Added Member To Class: ClassName=U_Matrice Member=Component S31 S
+Added Member To Class: ClassName=U_Matrice Member=Component S32 D
+Added Member To Class: ClassName=U_Matrice Member=Component S33 F
+Added Member To Class: ClassName=U_Matrice Member=Component S34 G
+Added Member To Class: ClassName=U_Matrice Member=Component S35 H
+Added Member To Class: ClassName=U_Matrice Member=Component S36 J
+Added Member To Class: ClassName=U_Matrice Member=Component S37 K
+Added Member To Class: ClassName=U_Matrice Member=Component S38 L
+Added Member To Class: ClassName=U_Matrice Member=Component S39 ;:
+Added Member To Class: ClassName=U_Matrice Member=Component S40 '"
+Added Member To Class: ClassName=U_Matrice Member=Component S41 Enter
+Added Member To Class: ClassName=U_Matrice Member=Component S42 L_SHIFT
+Added Member To Class: ClassName=U_Matrice Member=Component S43 Z
+Added Member To Class: ClassName=U_Matrice Member=Component S44 X
+Added Member To Class: ClassName=U_Matrice Member=Component S45 C
+Added Member To Class: ClassName=U_Matrice Member=Component S46 V
+Added Member To Class: ClassName=U_Matrice Member=Component S47 B
+Added Member To Class: ClassName=U_Matrice Member=Component S48 N
+Added Member To Class: ClassName=U_Matrice Member=Component S49 M
+Added Member To Class: ClassName=U_Matrice Member=Component S50 ,<
+Added Member To Class: ClassName=U_Matrice Member=Component S51 .>
+Added Member To Class: ClassName=U_Matrice Member=Component S52 /?
+Added Member To Class: ClassName=U_Matrice Member=Component S53 R_SHIFT
+Added Member To Class: ClassName=U_Matrice Member=Component S54 UP
+Added Member To Class: ClassName=U_Matrice Member=Component S55 DEL
+Added Member To Class: ClassName=U_Matrice Member=Component S56 L_CTRL
+Added Member To Class: ClassName=U_Matrice Member=Component S57 WIN
+Added Member To Class: ClassName=U_Matrice Member=Component S58 L_ALT
+Added Member To Class: ClassName=U_Matrice Member=Component S59 SPACE
+Added Member To Class: ClassName=U_Matrice Member=Component S60 R_ALT
+Added Member To Class: ClassName=U_Matrice Member=Component S61 FN
+Added Member To Class: ClassName=U_Matrice Member=Component S62 LEFT
+Added Member To Class: ClassName=U_Matrice Member=Component S63 DOWN
+Added Member To Class: ClassName=U_Matrice Member=Component S64 RIGHT
