@@ -207,6 +207,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGFNUHVH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for KeyBored_PCB_ThomasLajoie_2025\Design Rule Check - PCB_Clavier.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NomDeProjet
 Value=Mon Projet
