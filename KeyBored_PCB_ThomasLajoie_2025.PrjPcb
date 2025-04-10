@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YMLHHOOU
 
 [Document4]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=PCB_Clavier.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,12 +208,12 @@ GenerateClassCluster=0
 DocumentUniqueId=WGFNUHVH
 
 [Parameter1]
-Name=Revision
-Value=Rev.C
-
-[Parameter2]
 Name=NomDeProjet
 Value=Mon Projet
+
+[Parameter2]
+Name=Revision
+Value=Rev.C
 
 [DiffPairSuffix1]
 Positive=_-
