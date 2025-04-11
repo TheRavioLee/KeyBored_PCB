@@ -1,0 +1,1000 @@
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel1-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel1-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel2-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel2-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel3-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel3-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel4-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel4-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel5-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel5-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel6-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel6-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel7-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel7-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel8-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel8-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel9-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel9-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel10-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel10-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel11-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel11-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel12-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel12-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel13-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel13-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel14-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel14-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel15-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel15-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel16-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel16-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel17-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel17-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel18-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel18-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel19-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel19-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel20-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel20-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel21-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel21-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel22-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel22-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel23-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel23-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel24-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel24-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel25-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel25-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel26-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel26-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel27-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel27-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel28-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel28-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel29-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel29-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel30-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel30-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel31-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel31-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel32-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel32-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel33-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel33-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel34-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel34-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel35-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel35-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel36-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel36-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel37-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel37-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel38-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel38-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel39-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel39-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel40-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel40-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel41-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel41-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel42-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel42-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel43-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel43-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel44-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel44-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel45-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel45-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel46-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel46-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel47-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel47-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel48-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel48-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel49-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel49-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel50-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel50-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel51-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel51-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel52-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel52-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel53-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel53-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel54-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel54-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel55-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel55-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel56-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel56-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel57-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel57-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel58-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel58-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel59-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel59-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel60-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel60-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel61-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel61-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel62-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel62-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel63-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel63-2
+Removed Pin From Net: NetName=VBUS Pin=C*_U_LED_Channel64-1
+Removed Pin From Net: NetName=GND Pin=C*_U_LED_Channel64-2
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=LED1-3
+Removed Pin From Net: NetName=GND Pin=LED34-1
+Removed Pin From Net: NetName=GND Pin=LED34-3
+Removed Pin From Net: NetName=GND Pin=LED46-1
+Removed Pin From Net: NetName=GND Pin=LED46-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel2-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel2-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel3-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel3-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel4-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel4-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel5-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel5-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel6-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel6-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel7-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel7-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel8-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel8-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel9-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel9-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel10-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel10-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel11-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel11-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel12-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel12-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel13-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel13-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel14-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel14-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel15-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel15-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel16-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel16-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel17-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel17-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel18-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel18-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel19-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel19-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel20-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel20-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel21-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel21-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel22-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel22-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel23-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel23-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel24-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel24-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel25-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel25-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel26-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel26-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel27-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel27-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel28-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel28-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel29-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel29-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel30-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel30-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel31-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel31-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel32-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel32-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel33-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel33-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel35-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel35-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel36-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel36-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel37-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel37-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel38-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel38-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel39-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel39-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel40-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel40-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel41-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel41-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel42-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel42-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel43-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel43-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel44-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel44-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel45-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel45-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel47-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel47-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel48-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel48-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel49-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel49-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel50-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel50-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel51-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel51-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel52-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel52-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel53-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel53-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel54-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel54-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel55-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel55-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel56-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel56-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel57-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel57-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel58-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel58-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel59-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel59-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel60-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel60-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel61-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel61-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel62-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel62-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel63-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel63-3
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel64-1
+Removed Pin From Net: NetName=GND Pin=LED*_U_LED_Channel64-3
+Removed Pin From Net: NetName=GND Pin=MH11-1
+Removed Pin From Net: NetName=GND Pin=MH12-1
+Removed Pin From Net: NetName=GND Pin=MH13-1
+Removed Pin From Net: NetName=GND Pin=MH14-1
+Removed Pin From Net: NetName=GND Pin=MH15-1
+Removed Member From Class: ClassName=U_LED_Channel34 Member=LED34
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel54
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel55
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel56
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel57
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel58
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel59
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel60
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel61
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel62
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel63
+Removed Member From Class: ClassName=LED_Channel Member=U_LED_Channel64
+Change Component Designator: OldDesignator=C*_U_LED_Channel1 NewDesignator=C*_2
+Change Component Designator: OldDesignator=C*_U_LED_Channel2 NewDesignator=C*_1
+Change Component Designator: OldDesignator=C*_U_LED_Channel3 NewDesignator=C*_11
+Change Component Designator: OldDesignator=C*_U_LED_Channel4 NewDesignator=C*_U_LED_Channel53
+Change Component Designator: OldDesignator=C*_U_LED_Channel5 NewDesignator=C*_U_LED_Channel32
+Change Component Designator: OldDesignator=C*_U_LED_Channel6 NewDesignator=C*_U_LED_Channel31
+Change Component Designator: OldDesignator=C*_U_LED_Channel7 NewDesignator=C*_U_LED_Channel10
+Change Component Designator: OldDesignator=C*_U_LED_Channel8 NewDesignator=C*_U_LED_Channel9
+Change Component Designator: OldDesignator=C*_U_LED_Channel9 NewDesignator=C*_10
+Change Component Designator: OldDesignator=C*_U_LED_Channel10 NewDesignator=C*_U_LED_Channel52
+Change Component Designator: OldDesignator=C*_U_LED_Channel11 NewDesignator=C*_U_LED_Channel33
+Change Component Designator: OldDesignator=C*_U_LED_Channel12 NewDesignator=C*_U_LED_Channel30
+Change Component Designator: OldDesignator=C*_U_LED_Channel13 NewDesignator=C*_U_LED_Channel11
+Change Component Designator: OldDesignator=C*_U_LED_Channel14 NewDesignator=C*_U_LED_Channel8
+Change Component Designator: OldDesignator=C*_U_LED_Channel15 NewDesignator=C*_9
+Change Component Designator: OldDesignator=C*_U_LED_Channel16 NewDesignator=C*_U_LED_Channel51
+Change Component Designator: OldDesignator=C*_U_LED_Channel17 NewDesignator=C*_U_LED_Channel34
+Change Component Designator: OldDesignator=C*_U_LED_Channel18 NewDesignator=C*_U_LED_Channel29
+Change Component Designator: OldDesignator=C*_U_LED_Channel19 NewDesignator=C*_U_LED_Channel12
+Change Component Designator: OldDesignator=C*_U_LED_Channel20 NewDesignator=C*_U_LED_Channel7
+Change Component Designator: OldDesignator=C*_U_LED_Channel21 NewDesignator=C*_8
+Change Component Designator: OldDesignator=C*_U_LED_Channel22 NewDesignator=C*_U_LED_Channel50
+Change Component Designator: OldDesignator=C*_U_LED_Channel23 NewDesignator=C*_U_LED_Channel35
+Change Component Designator: OldDesignator=C*_U_LED_Channel24 NewDesignator=C*_U_LED_Channel28
+Change Component Designator: OldDesignator=C*_U_LED_Channel25 NewDesignator=C*_U_LED_Channel13
+Change Component Designator: OldDesignator=C*_U_LED_Channel26 NewDesignator=C*_U_LED_Channel6
+Change Component Designator: OldDesignator=C*_U_LED_Channel27 NewDesignator=C*_7
+Change Component Designator: OldDesignator=C*_U_LED_Channel28 NewDesignator=C*_U_LED_Channel49
+Change Component Designator: OldDesignator=C*_U_LED_Channel29 NewDesignator=C*_U_LED_Channel36
+Change Component Designator: OldDesignator=C*_U_LED_Channel30 NewDesignator=C*_U_LED_Channel27
+Change Component Designator: OldDesignator=C*_U_LED_Channel31 NewDesignator=C*_U_LED_Channel14
+Change Component Designator: OldDesignator=C*_U_LED_Channel32 NewDesignator=C*_U_LED_Channel5
+Change Component Designator: OldDesignator=C*_U_LED_Channel33 NewDesignator=C*_6
+Change Component Designator: OldDesignator=C*_U_LED_Channel34 NewDesignator=C*_U_LED_Channel48
+Change Component Designator: OldDesignator=C*_U_LED_Channel35 NewDesignator=C*_U_LED_Channel37
+Change Component Designator: OldDesignator=C*_U_LED_Channel36 NewDesignator=C*_U_LED_Channel26
+Change Component Designator: OldDesignator=C*_U_LED_Channel37 NewDesignator=C*_U_LED_Channel15
+Change Component Designator: OldDesignator=C*_U_LED_Channel38 NewDesignator=C*_U_LED_Channel4
+Change Component Designator: OldDesignator=C*_U_LED_Channel39 NewDesignator=C*_5
+Change Component Designator: OldDesignator=C*_U_LED_Channel40 NewDesignator=C*_U_LED_Channel47
+Change Component Designator: OldDesignator=C*_U_LED_Channel41 NewDesignator=C*_U_LED_Channel38
+Change Component Designator: OldDesignator=C*_U_LED_Channel42 NewDesignator=C*_U_LED_Channel25
+Change Component Designator: OldDesignator=C*_U_LED_Channel43 NewDesignator=C*_U_LED_Channel16
+Change Component Designator: OldDesignator=C*_U_LED_Channel44 NewDesignator=C*_U_LED_Channel3
+Change Component Designator: OldDesignator=C*_U_LED_Channel45 NewDesignator=C*_4
+Change Component Designator: OldDesignator=C*_U_LED_Channel47 NewDesignator=C*_U_LED_Channel39
+Change Component Designator: OldDesignator=C*_U_LED_Channel48 NewDesignator=C*_U_LED_Channel24
+Change Component Designator: OldDesignator=C*_U_LED_Channel49 NewDesignator=C*_U_LED_Channel17
+Change Component Designator: OldDesignator=C*_U_LED_Channel50 NewDesignator=C*_U_LED_Channel2
+Change Component Designator: OldDesignator=C*_U_LED_Channel51 NewDesignator=C*_3
+Change Component Designator: OldDesignator=C*_U_LED_Channel52 NewDesignator=C*_U_LED_Channel45
+Change Component Designator: OldDesignator=C*_U_LED_Channel53 NewDesignator=C*_U_LED_Channel40
+Change Component Designator: OldDesignator=C*_U_LED_Channel54 NewDesignator=C*_U_LED_Channel23
+Change Component Designator: OldDesignator=C*_U_LED_Channel55 NewDesignator=C*_U_LED_Channel18
+Change Component Designator: OldDesignator=C*_U_LED_Channel56 NewDesignator=C*_U_LED_Channel1
+Change Component Designator: OldDesignator=C*_U_LED_Channel57 NewDesignator=C*_U_LED_Channel44
+Change Component Designator: OldDesignator=C*_U_LED_Channel58 NewDesignator=C*_U_LED_Channel41
+Change Component Designator: OldDesignator=C*_U_LED_Channel59 NewDesignator=C*_U_LED_Channel22
+Change Component Designator: OldDesignator=C*_U_LED_Channel60 NewDesignator=C*_U_LED_Channel19
+Change Component Designator: OldDesignator=C*_U_LED_Channel61 NewDesignator=C*_U_LED_Channel43
+Change Component Designator: OldDesignator=C*_U_LED_Channel62 NewDesignator=C*_U_LED_Channel42
+Change Component Designator: OldDesignator=C*_U_LED_Channel63 NewDesignator=C*_U_LED_Channel21
+Change Component Designator: OldDesignator=C*_U_LED_Channel64 NewDesignator=C*_U_LED_Channel20
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED*_2
+Change Component Designator: OldDesignator=LED34 NewDesignator=LED*_U_LED_Channel48
+Change Component Designator: OldDesignator=LED46 NewDesignator=LED*_U_LED_Channel46
+Change Component Designator: OldDesignator=LED*_U_LED_Channel2 NewDesignator=LED*_1
+Change Component Designator: OldDesignator=LED*_U_LED_Channel3 NewDesignator=LED*_11
+Change Component Designator: OldDesignator=LED*_U_LED_Channel4 NewDesignator=LED*_U_LED_Channel53
+Change Component Designator: OldDesignator=LED*_U_LED_Channel5 NewDesignator=LED*_U_LED_Channel32
+Change Component Designator: OldDesignator=LED*_U_LED_Channel6 NewDesignator=LED*_U_LED_Channel31
+Change Component Designator: OldDesignator=LED*_U_LED_Channel7 NewDesignator=LED*_U_LED_Channel10
+Change Component Designator: OldDesignator=LED*_U_LED_Channel8 NewDesignator=LED*_U_LED_Channel9
+Change Component Designator: OldDesignator=LED*_U_LED_Channel9 NewDesignator=LED*_10
+Change Component Designator: OldDesignator=LED*_U_LED_Channel10 NewDesignator=LED*_U_LED_Channel52
+Change Component Designator: OldDesignator=LED*_U_LED_Channel11 NewDesignator=LED*_U_LED_Channel33
+Change Component Designator: OldDesignator=LED*_U_LED_Channel12 NewDesignator=LED*_U_LED_Channel30
+Change Component Designator: OldDesignator=LED*_U_LED_Channel13 NewDesignator=LED*_U_LED_Channel11
+Change Component Designator: OldDesignator=LED*_U_LED_Channel14 NewDesignator=LED*_U_LED_Channel8
+Change Component Designator: OldDesignator=LED*_U_LED_Channel15 NewDesignator=LED*_9
+Change Component Designator: OldDesignator=LED*_U_LED_Channel16 NewDesignator=LED*_U_LED_Channel51
+Change Component Designator: OldDesignator=LED*_U_LED_Channel17 NewDesignator=LED*_U_LED_Channel34
+Change Component Designator: OldDesignator=LED*_U_LED_Channel18 NewDesignator=LED*_U_LED_Channel29
+Change Component Designator: OldDesignator=LED*_U_LED_Channel19 NewDesignator=LED*_U_LED_Channel12
+Change Component Designator: OldDesignator=LED*_U_LED_Channel20 NewDesignator=LED*_U_LED_Channel7
+Change Component Designator: OldDesignator=LED*_U_LED_Channel21 NewDesignator=LED*_8
+Change Component Designator: OldDesignator=LED*_U_LED_Channel22 NewDesignator=LED*_U_LED_Channel50
+Change Component Designator: OldDesignator=LED*_U_LED_Channel23 NewDesignator=LED*_U_LED_Channel35
+Change Component Designator: OldDesignator=LED*_U_LED_Channel24 NewDesignator=LED*_U_LED_Channel28
+Change Component Designator: OldDesignator=LED*_U_LED_Channel25 NewDesignator=LED*_U_LED_Channel13
+Change Component Designator: OldDesignator=LED*_U_LED_Channel26 NewDesignator=LED*_U_LED_Channel6
+Change Component Designator: OldDesignator=LED*_U_LED_Channel27 NewDesignator=LED*_7
+Change Component Designator: OldDesignator=LED*_U_LED_Channel28 NewDesignator=LED*_U_LED_Channel49
+Change Component Designator: OldDesignator=LED*_U_LED_Channel29 NewDesignator=LED*_U_LED_Channel36
+Change Component Designator: OldDesignator=LED*_U_LED_Channel30 NewDesignator=LED*_U_LED_Channel27
+Change Component Designator: OldDesignator=LED*_U_LED_Channel31 NewDesignator=LED*_U_LED_Channel14
+Change Component Designator: OldDesignator=LED*_U_LED_Channel32 NewDesignator=LED*_U_LED_Channel5
+Change Component Designator: OldDesignator=LED*_U_LED_Channel33 NewDesignator=LED*_6
+Change Component Designator: OldDesignator=LED*_U_LED_Channel35 NewDesignator=LED*_U_LED_Channel37
+Change Component Designator: OldDesignator=LED*_U_LED_Channel36 NewDesignator=LED*_U_LED_Channel26
+Change Component Designator: OldDesignator=LED*_U_LED_Channel37 NewDesignator=LED*_U_LED_Channel15
+Change Component Designator: OldDesignator=LED*_U_LED_Channel38 NewDesignator=LED*_U_LED_Channel4
+Change Component Designator: OldDesignator=LED*_U_LED_Channel39 NewDesignator=LED*_5
+Change Component Designator: OldDesignator=LED*_U_LED_Channel40 NewDesignator=LED*_U_LED_Channel47
+Change Component Designator: OldDesignator=LED*_U_LED_Channel41 NewDesignator=LED*_U_LED_Channel38
+Change Component Designator: OldDesignator=LED*_U_LED_Channel42 NewDesignator=LED*_U_LED_Channel25
+Change Component Designator: OldDesignator=LED*_U_LED_Channel43 NewDesignator=LED*_U_LED_Channel16
+Change Component Designator: OldDesignator=LED*_U_LED_Channel44 NewDesignator=LED*_U_LED_Channel3
+Change Component Designator: OldDesignator=LED*_U_LED_Channel45 NewDesignator=LED*_4
+Change Component Designator: OldDesignator=LED*_U_LED_Channel47 NewDesignator=LED*_U_LED_Channel39
+Change Component Designator: OldDesignator=LED*_U_LED_Channel48 NewDesignator=LED*_U_LED_Channel24
+Change Component Designator: OldDesignator=LED*_U_LED_Channel49 NewDesignator=LED*_U_LED_Channel17
+Change Component Designator: OldDesignator=LED*_U_LED_Channel50 NewDesignator=LED*_U_LED_Channel2
+Change Component Designator: OldDesignator=LED*_U_LED_Channel51 NewDesignator=LED*_3
+Change Component Designator: OldDesignator=LED*_U_LED_Channel52 NewDesignator=LED*_U_LED_Channel45
+Change Component Designator: OldDesignator=LED*_U_LED_Channel53 NewDesignator=LED*_U_LED_Channel40
+Change Component Designator: OldDesignator=LED*_U_LED_Channel54 NewDesignator=LED*_U_LED_Channel23
+Change Component Designator: OldDesignator=LED*_U_LED_Channel55 NewDesignator=LED*_U_LED_Channel18
+Change Component Designator: OldDesignator=LED*_U_LED_Channel56 NewDesignator=LED*_U_LED_Channel1
+Change Component Designator: OldDesignator=LED*_U_LED_Channel57 NewDesignator=LED*_U_LED_Channel44
+Change Component Designator: OldDesignator=LED*_U_LED_Channel58 NewDesignator=LED*_U_LED_Channel41
+Change Component Designator: OldDesignator=LED*_U_LED_Channel59 NewDesignator=LED*_U_LED_Channel22
+Change Component Designator: OldDesignator=LED*_U_LED_Channel60 NewDesignator=LED*_U_LED_Channel19
+Change Component Designator: OldDesignator=LED*_U_LED_Channel61 NewDesignator=LED*_U_LED_Channel43
+Change Component Designator: OldDesignator=LED*_U_LED_Channel62 NewDesignator=LED*_U_LED_Channel42
+Change Component Designator: OldDesignator=LED*_U_LED_Channel63 NewDesignator=LED*_U_LED_Channel21
+Change Component Designator: OldDesignator=LED*_U_LED_Channel64 NewDesignator=LED*_U_LED_Channel20
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel1_2 New Net Name=NetLED*_2_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel3_2 New Net Name=NetLED*_11_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel4_2 New Net Name=NetLED*_U_LED_Channel53_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel5_2 New Net Name=NetLED*_U_LED_Channel32_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel6_2 New Net Name=NetLED*_U_LED_Channel31_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel7_2 New Net Name=NetLED*_U_LED_Channel10_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel8_2 New Net Name=NetLED*_U_LED_Channel9_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel9_2 New Net Name=NetLED*_10_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel10_2 New Net Name=NetLED*_U_LED_Channel52_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel11_2 New Net Name=NetLED*_U_LED_Channel33_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel12_2 New Net Name=NetLED*_U_LED_Channel30_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel13_2 New Net Name=NetLED*_U_LED_Channel11_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel14_2 New Net Name=NetLED*_U_LED_Channel8_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel15_2 New Net Name=NetLED*_9_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel16_2 New Net Name=NetLED*_U_LED_Channel51_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel17_2 New Net Name=NetLED*_U_LED_Channel34_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel18_2 New Net Name=NetLED*_U_LED_Channel29_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel19_2 New Net Name=NetLED*_U_LED_Channel12_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel20_2 New Net Name=NetLED*_U_LED_Channel7_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel21_2 New Net Name=NetLED*_8_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel22_2 New Net Name=NetLED*_U_LED_Channel50_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel23_2 New Net Name=NetLED*_U_LED_Channel35_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel24_2 New Net Name=NetLED*_U_LED_Channel28_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel25_2 New Net Name=NetLED*_U_LED_Channel13_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel26_2 New Net Name=NetLED*_U_LED_Channel6_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel27_2 New Net Name=NetLED*_7_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel28_2 New Net Name=NetLED*_U_LED_Channel49_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel29_2 New Net Name=NetLED*_U_LED_Channel36_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel30_2 New Net Name=NetLED*_U_LED_Channel27_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel31_2 New Net Name=NetLED*_U_LED_Channel14_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel32_2 New Net Name=NetLED*_U_LED_Channel5_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel33_2 New Net Name=NetLED*_6_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel34_2 New Net Name=NetLED*_U_LED_Channel48_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel35_2 New Net Name=NetLED*_U_LED_Channel37_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel36_2 New Net Name=NetLED*_U_LED_Channel26_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel37_2 New Net Name=NetLED*_U_LED_Channel15_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel38_2 New Net Name=NetLED*_U_LED_Channel4_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel39_2 New Net Name=NetLED*_5_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel40_2 New Net Name=NetLED*_U_LED_Channel47_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel41_2 New Net Name=NetLED*_U_LED_Channel38_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel42_2 New Net Name=NetLED*_U_LED_Channel25_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel43_2 New Net Name=NetLED*_U_LED_Channel16_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel44_2 New Net Name=NetLED*_U_LED_Channel3_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel45_2 New Net Name=NetLED*_4_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel47_2 New Net Name=NetLED*_U_LED_Channel39_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel48_2 New Net Name=NetLED*_U_LED_Channel24_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel49_2 New Net Name=NetLED*_U_LED_Channel17_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel50_2 New Net Name=NetLED*_U_LED_Channel2_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel51_2 New Net Name=NetLED*_3_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel52_2 New Net Name=NetLED*_U_LED_Channel45_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel53_2 New Net Name=NetLED*_U_LED_Channel40_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel54_2 New Net Name=NetLED*_U_LED_Channel23_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel55_2 New Net Name=NetLED*_U_LED_Channel18_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel56_2 New Net Name=NetLED*_U_LED_Channel1_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel56_4 New Net Name=NetLED*_U_LED_Channel1_4
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel57_2 New Net Name=NetLED*_U_LED_Channel44_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel58_2 New Net Name=NetLED*_U_LED_Channel41_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel59_2 New Net Name=NetLED*_U_LED_Channel22_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel60_2 New Net Name=NetLED*_U_LED_Channel19_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel61_2 New Net Name=NetLED*_U_LED_Channel43_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel62_2 New Net Name=NetLED*_U_LED_Channel42_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel63_2 New Net Name=NetLED*_U_LED_Channel21_2
+Change Net Name : Old Net Name=NetLED*_U_LED_Channel64_2 New Net Name=NetLED*_U_LED_Channel20_2
+Added Pin To Net: NetName=GND_1 Pin=C*_1-2
+Added Pin To Net: NetName=GND_1 Pin=LED*_1-1
+Added Pin To Net: NetName=GND_1 Pin=LED*_1-3
+Added Net: Name=GND_1
+Added Pin To Net: NetName=GND_2 Pin=C*_2-2
+Added Pin To Net: NetName=GND_2 Pin=LED*_2-1
+Added Pin To Net: NetName=GND_2 Pin=LED*_2-3
+Added Net: Name=GND_2
+Added Pin To Net: NetName=GND_3 Pin=C*_3-2
+Added Pin To Net: NetName=GND_3 Pin=LED*_3-1
+Added Pin To Net: NetName=GND_3 Pin=LED*_3-3
+Added Net: Name=GND_3
+Added Pin To Net: NetName=GND_4 Pin=C*_4-2
+Added Pin To Net: NetName=GND_4 Pin=LED*_4-1
+Added Pin To Net: NetName=GND_4 Pin=LED*_4-3
+Added Net: Name=GND_4
+Added Pin To Net: NetName=GND_5 Pin=C*_5-2
+Added Pin To Net: NetName=GND_5 Pin=LED*_5-1
+Added Pin To Net: NetName=GND_5 Pin=LED*_5-3
+Added Net: Name=GND_5
+Added Pin To Net: NetName=GND_6 Pin=C*_6-2
+Added Pin To Net: NetName=GND_6 Pin=LED*_6-1
+Added Pin To Net: NetName=GND_6 Pin=LED*_6-3
+Added Net: Name=GND_6
+Added Pin To Net: NetName=GND_7 Pin=C*_7-2
+Added Pin To Net: NetName=GND_7 Pin=LED*_7-1
+Added Pin To Net: NetName=GND_7 Pin=LED*_7-3
+Added Net: Name=GND_7
+Added Pin To Net: NetName=GND_8 Pin=C*_8-2
+Added Pin To Net: NetName=GND_8 Pin=LED*_8-1
+Added Pin To Net: NetName=GND_8 Pin=LED*_8-3
+Added Net: Name=GND_8
+Added Pin To Net: NetName=GND_9 Pin=C*_9-2
+Added Pin To Net: NetName=GND_9 Pin=LED*_9-1
+Added Pin To Net: NetName=GND_9 Pin=LED*_9-3
+Added Net: Name=GND_9
+Added Pin To Net: NetName=GND_10 Pin=C*_10-2
+Added Pin To Net: NetName=GND_10 Pin=LED*_10-1
+Added Pin To Net: NetName=GND_10 Pin=LED*_10-3
+Added Net: Name=GND_10
+Added Pin To Net: NetName=GND_11 Pin=C*_11-2
+Added Pin To Net: NetName=GND_11 Pin=LED*_11-1
+Added Pin To Net: NetName=GND_11 Pin=LED*_11-3
+Added Net: Name=GND_11
+Added Pin To Net: NetName=GND_U_LED_Channel1 Pin=C*_U_LED_Channel1-2
+Added Pin To Net: NetName=GND_U_LED_Channel1 Pin=LED*_U_LED_Channel1-1
+Added Pin To Net: NetName=GND_U_LED_Channel1 Pin=LED*_U_LED_Channel1-3
+Added Net: Name=GND_U_LED_Channel1
+Added Pin To Net: NetName=GND_U_LED_Channel2 Pin=C*_U_LED_Channel2-2
+Added Pin To Net: NetName=GND_U_LED_Channel2 Pin=LED*_U_LED_Channel2-1
+Added Pin To Net: NetName=GND_U_LED_Channel2 Pin=LED*_U_LED_Channel2-3
+Added Net: Name=GND_U_LED_Channel2
+Added Pin To Net: NetName=GND_U_LED_Channel3 Pin=C*_U_LED_Channel3-2
+Added Pin To Net: NetName=GND_U_LED_Channel3 Pin=LED*_U_LED_Channel3-1
+Added Pin To Net: NetName=GND_U_LED_Channel3 Pin=LED*_U_LED_Channel3-3
+Added Net: Name=GND_U_LED_Channel3
+Added Pin To Net: NetName=GND_U_LED_Channel4 Pin=C*_U_LED_Channel4-2
+Added Pin To Net: NetName=GND_U_LED_Channel4 Pin=LED*_U_LED_Channel4-1
+Added Pin To Net: NetName=GND_U_LED_Channel4 Pin=LED*_U_LED_Channel4-3
+Added Net: Name=GND_U_LED_Channel4
+Added Pin To Net: NetName=GND_U_LED_Channel5 Pin=C*_U_LED_Channel5-2
+Added Pin To Net: NetName=GND_U_LED_Channel5 Pin=LED*_U_LED_Channel5-1
+Added Pin To Net: NetName=GND_U_LED_Channel5 Pin=LED*_U_LED_Channel5-3
+Added Net: Name=GND_U_LED_Channel5
+Added Pin To Net: NetName=GND_U_LED_Channel6 Pin=C*_U_LED_Channel6-2
+Added Pin To Net: NetName=GND_U_LED_Channel6 Pin=LED*_U_LED_Channel6-1
+Added Pin To Net: NetName=GND_U_LED_Channel6 Pin=LED*_U_LED_Channel6-3
+Added Net: Name=GND_U_LED_Channel6
+Added Pin To Net: NetName=GND_U_LED_Channel7 Pin=C*_U_LED_Channel7-2
+Added Pin To Net: NetName=GND_U_LED_Channel7 Pin=LED*_U_LED_Channel7-1
+Added Pin To Net: NetName=GND_U_LED_Channel7 Pin=LED*_U_LED_Channel7-3
+Added Net: Name=GND_U_LED_Channel7
+Added Pin To Net: NetName=GND_U_LED_Channel8 Pin=C*_U_LED_Channel8-2
+Added Pin To Net: NetName=GND_U_LED_Channel8 Pin=LED*_U_LED_Channel8-1
+Added Pin To Net: NetName=GND_U_LED_Channel8 Pin=LED*_U_LED_Channel8-3
+Added Net: Name=GND_U_LED_Channel8
+Added Pin To Net: NetName=GND_U_LED_Channel9 Pin=C*_U_LED_Channel9-2
+Added Pin To Net: NetName=GND_U_LED_Channel9 Pin=LED*_U_LED_Channel9-1
+Added Pin To Net: NetName=GND_U_LED_Channel9 Pin=LED*_U_LED_Channel9-3
+Added Net: Name=GND_U_LED_Channel9
+Added Pin To Net: NetName=GND_U_LED_Channel10 Pin=C*_U_LED_Channel10-2
+Added Pin To Net: NetName=GND_U_LED_Channel10 Pin=LED*_U_LED_Channel10-1
+Added Pin To Net: NetName=GND_U_LED_Channel10 Pin=LED*_U_LED_Channel10-3
+Added Net: Name=GND_U_LED_Channel10
+Added Pin To Net: NetName=GND_U_LED_Channel11 Pin=C*_U_LED_Channel11-2
+Added Pin To Net: NetName=GND_U_LED_Channel11 Pin=LED*_U_LED_Channel11-1
+Added Pin To Net: NetName=GND_U_LED_Channel11 Pin=LED*_U_LED_Channel11-3
+Added Net: Name=GND_U_LED_Channel11
+Added Pin To Net: NetName=GND_U_LED_Channel12 Pin=C*_U_LED_Channel12-2
+Added Pin To Net: NetName=GND_U_LED_Channel12 Pin=LED*_U_LED_Channel12-1
+Added Pin To Net: NetName=GND_U_LED_Channel12 Pin=LED*_U_LED_Channel12-3
+Added Net: Name=GND_U_LED_Channel12
+Added Pin To Net: NetName=GND_U_LED_Channel13 Pin=C*_U_LED_Channel13-2
+Added Pin To Net: NetName=GND_U_LED_Channel13 Pin=LED*_U_LED_Channel13-1
+Added Pin To Net: NetName=GND_U_LED_Channel13 Pin=LED*_U_LED_Channel13-3
+Added Net: Name=GND_U_LED_Channel13
+Added Pin To Net: NetName=GND_U_LED_Channel14 Pin=C*_U_LED_Channel14-2
+Added Pin To Net: NetName=GND_U_LED_Channel14 Pin=LED*_U_LED_Channel14-1
+Added Pin To Net: NetName=GND_U_LED_Channel14 Pin=LED*_U_LED_Channel14-3
+Added Net: Name=GND_U_LED_Channel14
+Added Pin To Net: NetName=GND_U_LED_Channel15 Pin=C*_U_LED_Channel15-2
+Added Pin To Net: NetName=GND_U_LED_Channel15 Pin=LED*_U_LED_Channel15-1
+Added Pin To Net: NetName=GND_U_LED_Channel15 Pin=LED*_U_LED_Channel15-3
+Added Net: Name=GND_U_LED_Channel15
+Added Pin To Net: NetName=GND_U_LED_Channel16 Pin=C*_U_LED_Channel16-2
+Added Pin To Net: NetName=GND_U_LED_Channel16 Pin=LED*_U_LED_Channel16-1
+Added Pin To Net: NetName=GND_U_LED_Channel16 Pin=LED*_U_LED_Channel16-3
+Added Net: Name=GND_U_LED_Channel16
+Added Pin To Net: NetName=GND_U_LED_Channel17 Pin=C*_U_LED_Channel17-2
+Added Pin To Net: NetName=GND_U_LED_Channel17 Pin=LED*_U_LED_Channel17-1
+Added Pin To Net: NetName=GND_U_LED_Channel17 Pin=LED*_U_LED_Channel17-3
+Added Net: Name=GND_U_LED_Channel17
+Added Pin To Net: NetName=GND_U_LED_Channel18 Pin=C*_U_LED_Channel18-2
+Added Pin To Net: NetName=GND_U_LED_Channel18 Pin=LED*_U_LED_Channel18-1
+Added Pin To Net: NetName=GND_U_LED_Channel18 Pin=LED*_U_LED_Channel18-3
+Added Net: Name=GND_U_LED_Channel18
+Added Pin To Net: NetName=GND_U_LED_Channel19 Pin=C*_U_LED_Channel19-2
+Added Pin To Net: NetName=GND_U_LED_Channel19 Pin=LED*_U_LED_Channel19-1
+Added Pin To Net: NetName=GND_U_LED_Channel19 Pin=LED*_U_LED_Channel19-3
+Added Net: Name=GND_U_LED_Channel19
+Added Pin To Net: NetName=GND_U_LED_Channel20 Pin=C*_U_LED_Channel20-2
+Added Pin To Net: NetName=GND_U_LED_Channel20 Pin=LED*_U_LED_Channel20-1
+Added Pin To Net: NetName=GND_U_LED_Channel20 Pin=LED*_U_LED_Channel20-3
+Added Net: Name=GND_U_LED_Channel20
+Added Pin To Net: NetName=GND_U_LED_Channel21 Pin=C*_U_LED_Channel21-2
+Added Pin To Net: NetName=GND_U_LED_Channel21 Pin=LED*_U_LED_Channel21-1
+Added Pin To Net: NetName=GND_U_LED_Channel21 Pin=LED*_U_LED_Channel21-3
+Added Net: Name=GND_U_LED_Channel21
+Added Pin To Net: NetName=GND_U_LED_Channel22 Pin=C*_U_LED_Channel22-2
+Added Pin To Net: NetName=GND_U_LED_Channel22 Pin=LED*_U_LED_Channel22-1
+Added Pin To Net: NetName=GND_U_LED_Channel22 Pin=LED*_U_LED_Channel22-3
+Added Net: Name=GND_U_LED_Channel22
+Added Pin To Net: NetName=GND_U_LED_Channel23 Pin=C*_U_LED_Channel23-2
+Added Pin To Net: NetName=GND_U_LED_Channel23 Pin=LED*_U_LED_Channel23-1
+Added Pin To Net: NetName=GND_U_LED_Channel23 Pin=LED*_U_LED_Channel23-3
+Added Net: Name=GND_U_LED_Channel23
+Added Pin To Net: NetName=GND_U_LED_Channel24 Pin=C*_U_LED_Channel24-2
+Added Pin To Net: NetName=GND_U_LED_Channel24 Pin=LED*_U_LED_Channel24-1
+Added Pin To Net: NetName=GND_U_LED_Channel24 Pin=LED*_U_LED_Channel24-3
+Added Net: Name=GND_U_LED_Channel24
+Added Pin To Net: NetName=GND_U_LED_Channel25 Pin=C*_U_LED_Channel25-2
+Added Pin To Net: NetName=GND_U_LED_Channel25 Pin=LED*_U_LED_Channel25-1
+Added Pin To Net: NetName=GND_U_LED_Channel25 Pin=LED*_U_LED_Channel25-3
+Added Net: Name=GND_U_LED_Channel25
+Added Pin To Net: NetName=GND_U_LED_Channel26 Pin=C*_U_LED_Channel26-2
+Added Pin To Net: NetName=GND_U_LED_Channel26 Pin=LED*_U_LED_Channel26-1
+Added Pin To Net: NetName=GND_U_LED_Channel26 Pin=LED*_U_LED_Channel26-3
+Added Net: Name=GND_U_LED_Channel26
+Added Pin To Net: NetName=GND_U_LED_Channel27 Pin=C*_U_LED_Channel27-2
+Added Pin To Net: NetName=GND_U_LED_Channel27 Pin=LED*_U_LED_Channel27-1
+Added Pin To Net: NetName=GND_U_LED_Channel27 Pin=LED*_U_LED_Channel27-3
+Added Net: Name=GND_U_LED_Channel27
+Added Pin To Net: NetName=GND_U_LED_Channel28 Pin=C*_U_LED_Channel28-2
+Added Pin To Net: NetName=GND_U_LED_Channel28 Pin=LED*_U_LED_Channel28-1
+Added Pin To Net: NetName=GND_U_LED_Channel28 Pin=LED*_U_LED_Channel28-3
+Added Net: Name=GND_U_LED_Channel28
+Added Pin To Net: NetName=GND_U_LED_Channel29 Pin=C*_U_LED_Channel29-2
+Added Pin To Net: NetName=GND_U_LED_Channel29 Pin=LED*_U_LED_Channel29-1
+Added Pin To Net: NetName=GND_U_LED_Channel29 Pin=LED*_U_LED_Channel29-3
+Added Net: Name=GND_U_LED_Channel29
+Added Pin To Net: NetName=GND_U_LED_Channel30 Pin=C*_U_LED_Channel30-2
+Added Pin To Net: NetName=GND_U_LED_Channel30 Pin=LED*_U_LED_Channel30-1
+Added Pin To Net: NetName=GND_U_LED_Channel30 Pin=LED*_U_LED_Channel30-3
+Added Net: Name=GND_U_LED_Channel30
+Added Pin To Net: NetName=GND_U_LED_Channel31 Pin=C*_U_LED_Channel31-2
+Added Pin To Net: NetName=GND_U_LED_Channel31 Pin=LED*_U_LED_Channel31-1
+Added Pin To Net: NetName=GND_U_LED_Channel31 Pin=LED*_U_LED_Channel31-3
+Added Net: Name=GND_U_LED_Channel31
+Added Pin To Net: NetName=GND_U_LED_Channel32 Pin=C*_U_LED_Channel32-2
+Added Pin To Net: NetName=GND_U_LED_Channel32 Pin=LED*_U_LED_Channel32-1
+Added Pin To Net: NetName=GND_U_LED_Channel32 Pin=LED*_U_LED_Channel32-3
+Added Net: Name=GND_U_LED_Channel32
+Added Pin To Net: NetName=GND_U_LED_Channel33 Pin=C*_U_LED_Channel33-2
+Added Pin To Net: NetName=GND_U_LED_Channel33 Pin=LED*_U_LED_Channel33-1
+Added Pin To Net: NetName=GND_U_LED_Channel33 Pin=LED*_U_LED_Channel33-3
+Added Net: Name=GND_U_LED_Channel33
+Added Pin To Net: NetName=GND_U_LED_Channel34 Pin=C*_U_LED_Channel34-2
+Added Pin To Net: NetName=GND_U_LED_Channel34 Pin=LED*_U_LED_Channel34-1
+Added Pin To Net: NetName=GND_U_LED_Channel34 Pin=LED*_U_LED_Channel34-3
+Added Net: Name=GND_U_LED_Channel34
+Added Pin To Net: NetName=GND_U_LED_Channel35 Pin=C*_U_LED_Channel35-2
+Added Pin To Net: NetName=GND_U_LED_Channel35 Pin=LED*_U_LED_Channel35-1
+Added Pin To Net: NetName=GND_U_LED_Channel35 Pin=LED*_U_LED_Channel35-3
+Added Net: Name=GND_U_LED_Channel35
+Added Pin To Net: NetName=GND_U_LED_Channel36 Pin=C*_U_LED_Channel36-2
+Added Pin To Net: NetName=GND_U_LED_Channel36 Pin=LED*_U_LED_Channel36-1
+Added Pin To Net: NetName=GND_U_LED_Channel36 Pin=LED*_U_LED_Channel36-3
+Added Net: Name=GND_U_LED_Channel36
+Added Pin To Net: NetName=GND_U_LED_Channel37 Pin=C*_U_LED_Channel37-2
+Added Pin To Net: NetName=GND_U_LED_Channel37 Pin=LED*_U_LED_Channel37-1
+Added Pin To Net: NetName=GND_U_LED_Channel37 Pin=LED*_U_LED_Channel37-3
+Added Net: Name=GND_U_LED_Channel37
+Added Pin To Net: NetName=GND_U_LED_Channel38 Pin=C*_U_LED_Channel38-2
+Added Pin To Net: NetName=GND_U_LED_Channel38 Pin=LED*_U_LED_Channel38-1
+Added Pin To Net: NetName=GND_U_LED_Channel38 Pin=LED*_U_LED_Channel38-3
+Added Net: Name=GND_U_LED_Channel38
+Added Pin To Net: NetName=GND_U_LED_Channel39 Pin=C*_U_LED_Channel39-2
+Added Pin To Net: NetName=GND_U_LED_Channel39 Pin=LED*_U_LED_Channel39-1
+Added Pin To Net: NetName=GND_U_LED_Channel39 Pin=LED*_U_LED_Channel39-3
+Added Net: Name=GND_U_LED_Channel39
+Added Pin To Net: NetName=GND_U_LED_Channel40 Pin=C*_U_LED_Channel40-2
+Added Pin To Net: NetName=GND_U_LED_Channel40 Pin=LED*_U_LED_Channel40-1
+Added Pin To Net: NetName=GND_U_LED_Channel40 Pin=LED*_U_LED_Channel40-3
+Added Net: Name=GND_U_LED_Channel40
+Added Pin To Net: NetName=GND_U_LED_Channel41 Pin=C*_U_LED_Channel41-2
+Added Pin To Net: NetName=GND_U_LED_Channel41 Pin=LED*_U_LED_Channel41-1
+Added Pin To Net: NetName=GND_U_LED_Channel41 Pin=LED*_U_LED_Channel41-3
+Added Net: Name=GND_U_LED_Channel41
+Added Pin To Net: NetName=GND_U_LED_Channel42 Pin=C*_U_LED_Channel42-2
+Added Pin To Net: NetName=GND_U_LED_Channel42 Pin=LED*_U_LED_Channel42-1
+Added Pin To Net: NetName=GND_U_LED_Channel42 Pin=LED*_U_LED_Channel42-3
+Added Net: Name=GND_U_LED_Channel42
+Added Pin To Net: NetName=GND_U_LED_Channel43 Pin=C*_U_LED_Channel43-2
+Added Pin To Net: NetName=GND_U_LED_Channel43 Pin=LED*_U_LED_Channel43-1
+Added Pin To Net: NetName=GND_U_LED_Channel43 Pin=LED*_U_LED_Channel43-3
+Added Net: Name=GND_U_LED_Channel43
+Added Pin To Net: NetName=GND_U_LED_Channel44 Pin=C*_U_LED_Channel44-2
+Added Pin To Net: NetName=GND_U_LED_Channel44 Pin=LED*_U_LED_Channel44-1
+Added Pin To Net: NetName=GND_U_LED_Channel44 Pin=LED*_U_LED_Channel44-3
+Added Net: Name=GND_U_LED_Channel44
+Added Pin To Net: NetName=GND_U_LED_Channel45 Pin=C*_U_LED_Channel45-2
+Added Pin To Net: NetName=GND_U_LED_Channel45 Pin=LED*_U_LED_Channel45-1
+Added Pin To Net: NetName=GND_U_LED_Channel45 Pin=LED*_U_LED_Channel45-3
+Added Net: Name=GND_U_LED_Channel45
+Added Pin To Net: NetName=GND_U_LED_Channel46 Pin=C*_U_LED_Channel46-2
+Added Pin To Net: NetName=GND_U_LED_Channel46 Pin=LED*_U_LED_Channel46-1
+Added Pin To Net: NetName=GND_U_LED_Channel46 Pin=LED*_U_LED_Channel46-3
+Added Net: Name=GND_U_LED_Channel46
+Added Pin To Net: NetName=GND_U_LED_Channel47 Pin=C*_U_LED_Channel47-2
+Added Pin To Net: NetName=GND_U_LED_Channel47 Pin=LED*_U_LED_Channel47-1
+Added Pin To Net: NetName=GND_U_LED_Channel47 Pin=LED*_U_LED_Channel47-3
+Added Net: Name=GND_U_LED_Channel47
+Added Pin To Net: NetName=GND_U_LED_Channel48 Pin=C*_U_LED_Channel48-2
+Added Pin To Net: NetName=GND_U_LED_Channel48 Pin=LED*_U_LED_Channel48-1
+Added Pin To Net: NetName=GND_U_LED_Channel48 Pin=LED*_U_LED_Channel48-3
+Added Net: Name=GND_U_LED_Channel48
+Added Pin To Net: NetName=GND_U_LED_Channel49 Pin=C*_U_LED_Channel49-2
+Added Pin To Net: NetName=GND_U_LED_Channel49 Pin=LED*_U_LED_Channel49-1
+Added Pin To Net: NetName=GND_U_LED_Channel49 Pin=LED*_U_LED_Channel49-3
+Added Net: Name=GND_U_LED_Channel49
+Added Pin To Net: NetName=GND_U_LED_Channel50 Pin=C*_U_LED_Channel50-2
+Added Pin To Net: NetName=GND_U_LED_Channel50 Pin=LED*_U_LED_Channel50-1
+Added Pin To Net: NetName=GND_U_LED_Channel50 Pin=LED*_U_LED_Channel50-3
+Added Net: Name=GND_U_LED_Channel50
+Added Pin To Net: NetName=GND_U_LED_Channel51 Pin=C*_U_LED_Channel51-2
+Added Pin To Net: NetName=GND_U_LED_Channel51 Pin=LED*_U_LED_Channel51-1
+Added Pin To Net: NetName=GND_U_LED_Channel51 Pin=LED*_U_LED_Channel51-3
+Added Net: Name=GND_U_LED_Channel51
+Added Pin To Net: NetName=GND_U_LED_Channel52 Pin=C*_U_LED_Channel52-2
+Added Pin To Net: NetName=GND_U_LED_Channel52 Pin=LED*_U_LED_Channel52-1
+Added Pin To Net: NetName=GND_U_LED_Channel52 Pin=LED*_U_LED_Channel52-3
+Added Net: Name=GND_U_LED_Channel52
+Added Pin To Net: NetName=GND_U_LED_Channel53 Pin=C*_U_LED_Channel53-2
+Added Pin To Net: NetName=GND_U_LED_Channel53 Pin=LED*_U_LED_Channel53-1
+Added Pin To Net: NetName=GND_U_LED_Channel53 Pin=LED*_U_LED_Channel53-3
+Added Net: Name=GND_U_LED_Channel53
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=VBUS_1 Pin=C*_1-1
+Added Net: Name=VBUS_1
+Added Pin To Net: NetName=VBUS_2 Pin=C*_2-1
+Added Net: Name=VBUS_2
+Added Pin To Net: NetName=VBUS_3 Pin=C*_3-1
+Added Net: Name=VBUS_3
+Added Pin To Net: NetName=VBUS_4 Pin=C*_4-1
+Added Net: Name=VBUS_4
+Added Pin To Net: NetName=VBUS_5 Pin=C*_5-1
+Added Net: Name=VBUS_5
+Added Pin To Net: NetName=VBUS_6 Pin=C*_6-1
+Added Net: Name=VBUS_6
+Added Pin To Net: NetName=VBUS_7 Pin=C*_7-1
+Added Net: Name=VBUS_7
+Added Pin To Net: NetName=VBUS_8 Pin=C*_8-1
+Added Net: Name=VBUS_8
+Added Pin To Net: NetName=VBUS_9 Pin=C*_9-1
+Added Net: Name=VBUS_9
+Added Pin To Net: NetName=VBUS_10 Pin=C*_10-1
+Added Net: Name=VBUS_10
+Added Pin To Net: NetName=VBUS_11 Pin=C*_11-1
+Added Net: Name=VBUS_11
+Added Pin To Net: NetName=VBUS_U_LED_Channel1 Pin=C*_U_LED_Channel1-1
+Added Net: Name=VBUS_U_LED_Channel1
+Added Pin To Net: NetName=VBUS_U_LED_Channel2 Pin=C*_U_LED_Channel2-1
+Added Net: Name=VBUS_U_LED_Channel2
+Added Pin To Net: NetName=VBUS_U_LED_Channel3 Pin=C*_U_LED_Channel3-1
+Added Net: Name=VBUS_U_LED_Channel3
+Added Pin To Net: NetName=VBUS_U_LED_Channel4 Pin=C*_U_LED_Channel4-1
+Added Net: Name=VBUS_U_LED_Channel4
+Added Pin To Net: NetName=VBUS_U_LED_Channel5 Pin=C*_U_LED_Channel5-1
+Added Net: Name=VBUS_U_LED_Channel5
+Added Pin To Net: NetName=VBUS_U_LED_Channel6 Pin=C*_U_LED_Channel6-1
+Added Net: Name=VBUS_U_LED_Channel6
+Added Pin To Net: NetName=VBUS_U_LED_Channel7 Pin=C*_U_LED_Channel7-1
+Added Net: Name=VBUS_U_LED_Channel7
+Added Pin To Net: NetName=VBUS_U_LED_Channel8 Pin=C*_U_LED_Channel8-1
+Added Net: Name=VBUS_U_LED_Channel8
+Added Pin To Net: NetName=VBUS_U_LED_Channel9 Pin=C*_U_LED_Channel9-1
+Added Net: Name=VBUS_U_LED_Channel9
+Added Pin To Net: NetName=VBUS_U_LED_Channel10 Pin=C*_U_LED_Channel10-1
+Added Net: Name=VBUS_U_LED_Channel10
+Added Pin To Net: NetName=VBUS_U_LED_Channel11 Pin=C*_U_LED_Channel11-1
+Added Net: Name=VBUS_U_LED_Channel11
+Added Pin To Net: NetName=VBUS_U_LED_Channel12 Pin=C*_U_LED_Channel12-1
+Added Net: Name=VBUS_U_LED_Channel12
+Added Pin To Net: NetName=VBUS_U_LED_Channel13 Pin=C*_U_LED_Channel13-1
+Added Net: Name=VBUS_U_LED_Channel13
+Added Pin To Net: NetName=VBUS_U_LED_Channel14 Pin=C*_U_LED_Channel14-1
+Added Net: Name=VBUS_U_LED_Channel14
+Added Pin To Net: NetName=VBUS_U_LED_Channel15 Pin=C*_U_LED_Channel15-1
+Added Net: Name=VBUS_U_LED_Channel15
+Added Pin To Net: NetName=VBUS_U_LED_Channel16 Pin=C*_U_LED_Channel16-1
+Added Net: Name=VBUS_U_LED_Channel16
+Added Pin To Net: NetName=VBUS_U_LED_Channel17 Pin=C*_U_LED_Channel17-1
+Added Net: Name=VBUS_U_LED_Channel17
+Added Pin To Net: NetName=VBUS_U_LED_Channel18 Pin=C*_U_LED_Channel18-1
+Added Net: Name=VBUS_U_LED_Channel18
+Added Pin To Net: NetName=VBUS_U_LED_Channel19 Pin=C*_U_LED_Channel19-1
+Added Net: Name=VBUS_U_LED_Channel19
+Added Pin To Net: NetName=VBUS_U_LED_Channel20 Pin=C*_U_LED_Channel20-1
+Added Net: Name=VBUS_U_LED_Channel20
+Added Pin To Net: NetName=VBUS_U_LED_Channel21 Pin=C*_U_LED_Channel21-1
+Added Net: Name=VBUS_U_LED_Channel21
+Added Pin To Net: NetName=VBUS_U_LED_Channel22 Pin=C*_U_LED_Channel22-1
+Added Net: Name=VBUS_U_LED_Channel22
+Added Pin To Net: NetName=VBUS_U_LED_Channel23 Pin=C*_U_LED_Channel23-1
+Added Net: Name=VBUS_U_LED_Channel23
+Added Pin To Net: NetName=VBUS_U_LED_Channel24 Pin=C*_U_LED_Channel24-1
+Added Net: Name=VBUS_U_LED_Channel24
+Added Pin To Net: NetName=VBUS_U_LED_Channel25 Pin=C*_U_LED_Channel25-1
+Added Net: Name=VBUS_U_LED_Channel25
+Added Pin To Net: NetName=VBUS_U_LED_Channel26 Pin=C*_U_LED_Channel26-1
+Added Net: Name=VBUS_U_LED_Channel26
+Added Pin To Net: NetName=VBUS_U_LED_Channel27 Pin=C*_U_LED_Channel27-1
+Added Net: Name=VBUS_U_LED_Channel27
+Added Pin To Net: NetName=VBUS_U_LED_Channel28 Pin=C*_U_LED_Channel28-1
+Added Net: Name=VBUS_U_LED_Channel28
+Added Pin To Net: NetName=VBUS_U_LED_Channel29 Pin=C*_U_LED_Channel29-1
+Added Net: Name=VBUS_U_LED_Channel29
+Added Pin To Net: NetName=VBUS_U_LED_Channel30 Pin=C*_U_LED_Channel30-1
+Added Net: Name=VBUS_U_LED_Channel30
+Added Pin To Net: NetName=VBUS_U_LED_Channel31 Pin=C*_U_LED_Channel31-1
+Added Net: Name=VBUS_U_LED_Channel31
+Added Pin To Net: NetName=VBUS_U_LED_Channel32 Pin=C*_U_LED_Channel32-1
+Added Net: Name=VBUS_U_LED_Channel32
+Added Pin To Net: NetName=VBUS_U_LED_Channel33 Pin=C*_U_LED_Channel33-1
+Added Net: Name=VBUS_U_LED_Channel33
+Added Pin To Net: NetName=VBUS_U_LED_Channel34 Pin=C*_U_LED_Channel34-1
+Added Net: Name=VBUS_U_LED_Channel34
+Added Pin To Net: NetName=VBUS_U_LED_Channel35 Pin=C*_U_LED_Channel35-1
+Added Net: Name=VBUS_U_LED_Channel35
+Added Pin To Net: NetName=VBUS_U_LED_Channel36 Pin=C*_U_LED_Channel36-1
+Added Net: Name=VBUS_U_LED_Channel36
+Added Pin To Net: NetName=VBUS_U_LED_Channel37 Pin=C*_U_LED_Channel37-1
+Added Net: Name=VBUS_U_LED_Channel37
+Added Pin To Net: NetName=VBUS_U_LED_Channel38 Pin=C*_U_LED_Channel38-1
+Added Net: Name=VBUS_U_LED_Channel38
+Added Pin To Net: NetName=VBUS_U_LED_Channel39 Pin=C*_U_LED_Channel39-1
+Added Net: Name=VBUS_U_LED_Channel39
+Added Pin To Net: NetName=VBUS_U_LED_Channel40 Pin=C*_U_LED_Channel40-1
+Added Net: Name=VBUS_U_LED_Channel40
+Added Pin To Net: NetName=VBUS_U_LED_Channel41 Pin=C*_U_LED_Channel41-1
+Added Net: Name=VBUS_U_LED_Channel41
+Added Pin To Net: NetName=VBUS_U_LED_Channel42 Pin=C*_U_LED_Channel42-1
+Added Net: Name=VBUS_U_LED_Channel42
+Added Pin To Net: NetName=VBUS_U_LED_Channel43 Pin=C*_U_LED_Channel43-1
+Added Net: Name=VBUS_U_LED_Channel43
+Added Pin To Net: NetName=VBUS_U_LED_Channel44 Pin=C*_U_LED_Channel44-1
+Added Net: Name=VBUS_U_LED_Channel44
+Added Pin To Net: NetName=VBUS_U_LED_Channel45 Pin=C*_U_LED_Channel45-1
+Added Net: Name=VBUS_U_LED_Channel45
+Added Pin To Net: NetName=VBUS_U_LED_Channel46 Pin=C*_U_LED_Channel46-1
+Added Net: Name=VBUS_U_LED_Channel46
+Added Pin To Net: NetName=VBUS_U_LED_Channel47 Pin=C*_U_LED_Channel47-1
+Added Net: Name=VBUS_U_LED_Channel47
+Added Pin To Net: NetName=VBUS_U_LED_Channel48 Pin=C*_U_LED_Channel48-1
+Added Net: Name=VBUS_U_LED_Channel48
+Added Pin To Net: NetName=VBUS_U_LED_Channel49 Pin=C*_U_LED_Channel49-1
+Added Net: Name=VBUS_U_LED_Channel49
+Added Pin To Net: NetName=VBUS_U_LED_Channel50 Pin=C*_U_LED_Channel50-1
+Added Net: Name=VBUS_U_LED_Channel50
+Added Pin To Net: NetName=VBUS_U_LED_Channel51 Pin=C*_U_LED_Channel51-1
+Added Net: Name=VBUS_U_LED_Channel51
+Added Pin To Net: NetName=VBUS_U_LED_Channel52 Pin=C*_U_LED_Channel52-1
+Added Net: Name=VBUS_U_LED_Channel52
+Added Pin To Net: NetName=VBUS_U_LED_Channel53 Pin=C*_U_LED_Channel53-1
+Added Net: Name=VBUS_U_LED_Channel53
+Change Class Name : Old Net Name=U_LED_Channel1 New Net Name=2
+Change Class Name : Old Net Name=U_LED_Channel56 New Net Name=U_LED_Channel1
+Added Class: Name=1
+Added Class: Name=3
+Added Class: Name=4
+Added Class: Name=5
+Added Class: Name=6
+Added Class: Name=7
+Added Class: Name=8
+Added Class: Name=9
+Added Class: Name=10
+Added Class: Name=11
+Added Member To Class: ClassName=U_LED_Channel34 Member=Component LED*_U_LED_Channel34 (LED*) SK6803 Mini-E
+Added Member To Class: ClassName=LED_Channel Member=1 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=2 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=3 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=4 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=5 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=6 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=7 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=8 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=9 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=10 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=11 (LED_Channel.SchDoc)
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25
+Added Rule: Name=Schematic Supply Nets_26
+Added Rule: Name=Schematic Supply Nets_27
+Added Rule: Name=Schematic Supply Nets_28
+Added Rule: Name=Schematic Supply Nets_29
+Added Rule: Name=Schematic Supply Nets_30
+Added Rule: Name=Schematic Supply Nets_31
+Added Rule: Name=Schematic Supply Nets_32
+Added Rule: Name=Schematic Supply Nets_33
+Added Rule: Name=Schematic Supply Nets_34
+Added Rule: Name=Schematic Supply Nets_35
+Added Rule: Name=Schematic Supply Nets_36
+Added Rule: Name=Schematic Supply Nets_37
+Added Rule: Name=Schematic Supply Nets_38
+Added Rule: Name=Schematic Supply Nets_39
+Added Rule: Name=Schematic Supply Nets_40
+Added Rule: Name=Schematic Supply Nets_41
+Added Rule: Name=Schematic Supply Nets_42
+Added Rule: Name=Schematic Supply Nets_43
+Added Rule: Name=Schematic Supply Nets_44
+Added Rule: Name=Schematic Supply Nets_45
+Added Rule: Name=Schematic Supply Nets_46
+Added Rule: Name=Schematic Supply Nets_47
+Added Rule: Name=Schematic Supply Nets_48
+Added Rule: Name=Schematic Supply Nets_49
+Added Rule: Name=Schematic Supply Nets_50
+Added Rule: Name=Schematic Supply Nets_51
+Added Rule: Name=Schematic Supply Nets_52
+Added Rule: Name=Schematic Supply Nets_53
+Added Rule: Name=Schematic Supply Nets_54
+Added Rule: Name=Schematic Supply Nets_55
+Added Rule: Name=Schematic Supply Nets_56
+Added Rule: Name=Schematic Supply Nets_57
+Added Rule: Name=Schematic Supply Nets_58
+Added Rule: Name=Schematic Supply Nets_59
+Added Rule: Name=Schematic Supply Nets_60
+Added Rule: Name=Schematic Supply Nets_61
+Added Rule: Name=Schematic Supply Nets_62
+Added Rule: Name=Schematic Supply Nets_63
+Added Rule: Name=Schematic Supply Nets_64
+Added Rule: Name=Schematic Supply Nets_65
+Added Rule: Name=Schematic Supply Nets_66
+Added Rule: Name=Schematic Supply Nets_67
+Added Rule: Name=Schematic Supply Nets_68
+Added Rule: Name=Schematic Supply Nets_69
+Added Rule: Name=Schematic Supply Nets_70
+Added Rule: Name=Schematic Supply Nets_71
+Added Rule: Name=Schematic Supply Nets_72
+Added Rule: Name=Schematic Supply Nets_73
+Added Rule: Name=Schematic Supply Nets_74
+Added Rule: Name=Schematic Supply Nets_75
+Added Rule: Name=Schematic Supply Nets_76
+Added Rule: Name=Schematic Supply Nets_77
+Added Rule: Name=Schematic Supply Nets_78
+Added Rule: Name=Schematic Supply Nets_79
+Added Rule: Name=Schematic Supply Nets_80
+Added Rule: Name=Schematic Supply Nets_81
+Added Rule: Name=Schematic Supply Nets_82
+Added Rule: Name=Schematic Supply Nets_83
+Added Rule: Name=Schematic Supply Nets_84
+Added Rule: Name=Schematic Supply Nets_85
+Added Rule: Name=Schematic Supply Nets_86
+Added Rule: Name=Schematic Supply Nets_87
+Added Rule: Name=Schematic Supply Nets_88
+Added Rule: Name=Schematic Supply Nets_89
+Added Rule: Name=Schematic Supply Nets_90
+Added Rule: Name=Schematic Supply Nets_91
+Added Rule: Name=Schematic Supply Nets_92
+Added Rule: Name=Schematic Supply Nets_93
+Added Rule: Name=Schematic Supply Nets_94
+Added Rule: Name=Schematic Supply Nets_95
+Added Rule: Name=Schematic Supply Nets_96
+Added Rule: Name=Schematic Supply Nets_97
+Added Rule: Name=Schematic Supply Nets_98
+Added Rule: Name=Schematic Supply Nets_99
+Added Rule: Name=Schematic Supply Nets_100
+Added Rule: Name=Schematic Supply Nets_101
+Added Rule: Name=Schematic Supply Nets_102
+Added Rule: Name=Schematic Supply Nets_103
+Added Rule: Name=Schematic Supply Nets_104
+Added Rule: Name=Schematic Supply Nets_105
+Added Rule: Name=Schematic Supply Nets_106
+Added Rule: Name=Schematic Supply Nets_107
+Added Rule: Name=Schematic Supply Nets_108
+Added Rule: Name=Schematic Supply Nets_109
+Added Rule: Name=Schematic Supply Nets_110
+Added Rule: Name=Schematic Supply Nets_111
+Added Rule: Name=Schematic Supply Nets_112
+Added Rule: Name=Schematic Supply Nets_113
+Added Rule: Name=Schematic Supply Nets_114
+Added Rule: Name=Schematic Supply Nets_115
+Added Rule: Name=Schematic Supply Nets_116
+Added Rule: Name=Schematic Supply Nets_117
+Added Rule: Name=Schematic Supply Nets_118
+Added Rule: Name=Schematic Supply Nets_119
+Added Rule: Name=Schematic Supply Nets_120
+Added Rule: Name=Schematic Supply Nets_121
+Added Rule: Name=Schematic Supply Nets_122
+Added Rule: Name=Schematic Supply Nets_123
+Added Rule: Name=Schematic Supply Nets_124
+Added Rule: Name=Schematic Supply Nets_125
+Added Rule: Name=Schematic Supply Nets_126
+Added Rule: Name=Schematic Supply Nets_127
+Added Rule: Name=Schematic Supply Nets_128
+Added Rule: Name=Schematic Supply Nets_129
+Added Rule: Name=Schematic Supply Nets_130
