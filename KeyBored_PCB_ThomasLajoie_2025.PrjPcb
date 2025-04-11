@@ -212,12 +212,12 @@ DocumentPath=Project Outputs for KeyBored_PCB_ThomasLajoie_2025\Design Rule Chec
 DItemRevisionGUID=
 
 [Parameter1]
-Name=NomDeProjet
-Value=Mon Projet
-
-[Parameter2]
 Name=Revision
 Value=Rev.C
+
+[Parameter2]
+Name=NomDeProjet
+Value=Mon Projet
 
 [DiffPairSuffix1]
 Positive=_-
