@@ -1,5 +1,7 @@
 # Altium Project
 
+*.pdf
+
 # Ignore temporary and backup files
 *.bak             # Backup files
 *.temp            # Temporary files
