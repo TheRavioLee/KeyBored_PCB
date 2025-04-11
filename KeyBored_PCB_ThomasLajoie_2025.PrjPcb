@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RSWXAKIJ
+DocumentUniqueId=WTTCMWWV
 
 [Document3]
 DocumentPath=Clavier.SchDoc
@@ -191,23 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PTYVDASK
 
 [Document9]
-DocumentPath=Mounting_Holes.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WGFNUHVH
-
-[Document10]
 DocumentPath=LEDS_Status.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,6 +206,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXMBTVQU
+
+[Document10]
+DocumentPath=Mounting_Holes.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WGFNUHVH
 
 [Document11]
 DocumentPath=KeyBored_PCB_ThomasLajoie_2025.OutJob
