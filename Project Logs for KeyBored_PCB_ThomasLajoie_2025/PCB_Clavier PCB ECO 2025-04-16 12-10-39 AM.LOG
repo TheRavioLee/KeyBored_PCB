@@ -1,0 +1,3 @@
+Added Component: Designator=MH24(MTH_ROUND_5.35D)
+Added Pin To Net: NetName=NetMH24_1 Pin=MH24-1
+Added Member To Class: ClassName=U_Mounting_Holes Member=Component MH24 5.3mm

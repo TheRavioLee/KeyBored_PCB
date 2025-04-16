@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C_22 NewDesignator=C_122
+Change Component Designator: OldDesignator=LED_22 NewDesignator=LED_121
+Added Net: Name=NetMH24_1
+Add Class Member: Failed to add class member : Component MH24 5.3mm
