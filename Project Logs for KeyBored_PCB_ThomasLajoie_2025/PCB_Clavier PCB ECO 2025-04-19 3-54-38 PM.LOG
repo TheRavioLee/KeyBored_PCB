@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetLED_27_2 Pin=LED_28-2
+Removed Member From Class: ClassName=U_LED_62 Member=C_6
+Removed Member From Class: ClassName=U_LED_62 Member=LED_6
+Added Pin To Net: NetName=NetLED_27_2 Pin=LED_28-4
+Added Pin To Net: NetName=NetLED_28_2 Pin=LED_14-4
+Added Pin To Net: NetName=NetLED_28_2 Pin=LED_28-2
+Added Net: Name=NetLED_28_2
+Added Member To Class: ClassName=U_LED_62 Member=Component C_7 (C) 100nF
+Added Member To Class: ClassName=U_LED_62 Member=Component LED_7 (LED) SK6803 Mini-E
+Added Member To Class: ClassName=LED_Channel Member=U_LED_6 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=U_LED_6 (LED_Channel.SchDoc)
