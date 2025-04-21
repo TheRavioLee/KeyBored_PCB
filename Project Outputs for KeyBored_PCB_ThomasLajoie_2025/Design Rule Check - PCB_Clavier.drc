@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB\PCB_Clavier.PcbDoc
-Date     : 2025-04-20
-Time     : 10:46:05 PM
+Date     : 2025-04-21
+Time     : 11:48:29 AM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MH24-1(270.25mm,12.8mm) on Multi-Layer on Net NetMH24_1
@@ -39,12 +39,6 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :4
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net OS_2 Between Pad J1-4(32.375mm,52.925mm) on Bottom Layer And Pad U1-29(95.81mm,11.425mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net OS_3 Between Pad J1-5(33.375mm,52.925mm) on Bottom Layer And Pad U1-30(95.81mm,11.925mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad J1-6(34.375mm,52.925mm) on Bottom Layer And Pad U1-48(102.73mm,16.345mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad U1-34(95.81mm,13.925mm) on Bottom Layer And Pad J2-2(178.3mm,11.445mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net SWCLK Between Pad U1-37(97.23mm,16.345mm) on Bottom Layer And Pad J2-3(178.3mm,13.985mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net \N\R\S\T\ Between Pad U1-7(104.15mm,11.925mm) on Bottom Layer And Pad J2-4(178.3mm,16.525mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH10-1(192mm,7mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH1-1(7mm,78mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH16-1(258.125mm,91mm) on Multi-Layer 
@@ -64,7 +58,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Unplated Pad MH7-1(189.35mm,50.9mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH8-1(27.15mm,12.8mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH9-1(117mm,7mm) on Multi-Layer 
-Rule Violations :25
+Rule Violations :19
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -99,26 +93,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,90.05mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,93.55mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (0.924mm < 1mm) Between Arc (1.13mm,97.05mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 1mm) Between Board Edge And Text ".NomDeProjet" (48mm,-3.718mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 1mm) Between Board Edge And Text ".Revision" (50mm,-4.983mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_1" (9.145mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_10" (180.57mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_11" (199.645mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_13" (237.745mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_14" (266.295mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_2" (28.195mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_22" (218.695mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_3" (47.22mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_4" (66.27mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_5" (85.345mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_7" (104.421mm,99.116mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (0.857mm < 1mm) Between Board Edge And Text "C_9" (161.545mm,99.116mm) on Bottom Overlay 
-Rule Violations :19
+Rule Violations :5
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 52
+Violations Detected : 32
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:04
