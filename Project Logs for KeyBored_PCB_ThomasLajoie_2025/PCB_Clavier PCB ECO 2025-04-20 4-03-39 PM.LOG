@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+3.3V Pin=J1-6
+Removed Pin From Net: NetName=+3.3V Pin=U2-5
+Removed Pin From Net: NetName=+3.3V Pin=U4-5
+Added Component: Designator=C9(0603-CAPS)
+Added Component: Designator=C10(0603-CAPS)
+Added Component: Designator=C11(0603-CAPS)
+Added Component: Designator=C12(0603-CAPS)
+Added Component: Designator=R4(0603-CAPS)
+Added Component: Designator=R5(0603-CAPS)
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VBUS Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+3.3V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VBUS Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+3.3V Pin=R4-1
+Added Pin To Net: NetName=+3.3V Pin=R5-1
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-5
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U4-5
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=U_MCU Member=Component C9 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C10 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C11 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C12 100nF
+Added Member To Class: ClassName=U_MCU Member=Component R4 10K
+Added Member To Class: ClassName=U_MCU Member=Component R5 10K
+Added Member To Class: ClassName=LED_Channel Member=U_LED_6 (LED_Channel.SchDoc)
+Added Member To Class: ClassName=LED_Channel Member=U_LED_6 (LED_Channel.SchDoc)

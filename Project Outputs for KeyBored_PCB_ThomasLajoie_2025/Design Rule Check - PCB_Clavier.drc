@@ -1,9 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB\PCB_Clavier.PcbDoc
-Date     : 2025-04-19
-Time     : 4:57:30 PM
-
-ERROR : More than 500 violations detected, DRC was stopped
+Date     : 2025-04-20
+Time     : 10:46:05 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MH24-1(270.25mm,12.8mm) on Multi-Layer on Net NetMH24_1
@@ -27,355 +25,46 @@ WARNING: Unplated multi-layer pad(s) detected
    Pad MH1-1(7mm,78mm) on Multi-Layer on Net NetMH1_1
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_1-0(13mm,94.5mm) on Multi-Layer And Pad LED_1-1(15.55mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_1-0(13mm,94.5mm) on Multi-Layer And Pad LED_1-2(15.55mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_1-0(13mm,94.5mm) on Multi-Layer And Pad LED_1-3(10.45mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_1-0(13mm,94.5mm) on Multi-Layer And Pad LED_1-4(10.45mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_10-0(184.45mm,94.5mm) on Multi-Layer And Pad LED_10-1(187mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_10-0(184.45mm,94.5mm) on Multi-Layer And Pad LED_10-2(187mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_10-0(184.45mm,94.5mm) on Multi-Layer And Pad LED_10-3(181.9mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_10-0(184.45mm,94.5mm) on Multi-Layer And Pad LED_10-4(181.9mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_11-0(203.5mm,94.5mm) on Multi-Layer And Pad LED_11-1(206.05mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_11-0(203.5mm,94.5mm) on Multi-Layer And Pad LED_11-2(206.05mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_11-0(203.5mm,94.5mm) on Multi-Layer And Pad LED_11-3(200.95mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_11-0(203.5mm,94.5mm) on Multi-Layer And Pad LED_11-4(200.95mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_12-0(222.55mm,94.5mm) on Multi-Layer And Pad LED_12-1(225.1mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_12-0(222.55mm,94.5mm) on Multi-Layer And Pad LED_12-2(225.1mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_12-0(222.55mm,94.5mm) on Multi-Layer And Pad LED_12-3(220mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_12-0(222.55mm,94.5mm) on Multi-Layer And Pad LED_12-4(220mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_13-0(241.6mm,94.5mm) on Multi-Layer And Pad LED_13-1(244.15mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_13-0(241.6mm,94.5mm) on Multi-Layer And Pad LED_13-2(244.15mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_13-0(241.6mm,94.5mm) on Multi-Layer And Pad LED_13-3(239.05mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_13-0(241.6mm,94.5mm) on Multi-Layer And Pad LED_13-4(239.05mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_14-0(270.175mm,94.5mm) on Multi-Layer And Pad LED_14-1(272.725mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_14-0(270.175mm,94.5mm) on Multi-Layer And Pad LED_14-2(272.725mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_14-0(270.175mm,94.5mm) on Multi-Layer And Pad LED_14-3(267.625mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_14-0(270.175mm,94.5mm) on Multi-Layer And Pad LED_14-4(267.625mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_15-0(17.65mm,75.45mm) on Multi-Layer And Pad LED_15-1(20.2mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_15-0(17.65mm,75.45mm) on Multi-Layer And Pad LED_15-2(20.2mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_15-0(17.65mm,75.45mm) on Multi-Layer And Pad LED_15-3(15.1mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_15-0(17.65mm,75.45mm) on Multi-Layer And Pad LED_15-4(15.1mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_16-0(41.463mm,75.45mm) on Multi-Layer And Pad LED_16-1(44.013mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_16-0(41.463mm,75.45mm) on Multi-Layer And Pad LED_16-2(44.013mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_16-0(41.463mm,75.45mm) on Multi-Layer And Pad LED_16-3(38.913mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_16-0(41.463mm,75.45mm) on Multi-Layer And Pad LED_16-4(38.913mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_17-0(60.513mm,75.45mm) on Multi-Layer And Pad LED_17-1(63.063mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_17-0(60.513mm,75.45mm) on Multi-Layer And Pad LED_17-2(63.063mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_17-0(60.513mm,75.45mm) on Multi-Layer And Pad LED_17-3(57.963mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_17-0(60.513mm,75.45mm) on Multi-Layer And Pad LED_17-4(57.963mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_18-0(79.563mm,75.45mm) on Multi-Layer And Pad LED_18-1(82.113mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_18-0(79.563mm,75.45mm) on Multi-Layer And Pad LED_18-2(82.113mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_18-0(79.563mm,75.45mm) on Multi-Layer And Pad LED_18-3(77.013mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_18-0(79.563mm,75.45mm) on Multi-Layer And Pad LED_18-4(77.013mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_19-0(98.613mm,75.45mm) on Multi-Layer And Pad LED_19-1(101.163mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_19-0(98.613mm,75.45mm) on Multi-Layer And Pad LED_19-2(101.163mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_19-0(98.613mm,75.45mm) on Multi-Layer And Pad LED_19-3(96.063mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_19-0(98.613mm,75.45mm) on Multi-Layer And Pad LED_19-4(96.063mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_2-0(32.05mm,94.5mm) on Multi-Layer And Pad LED_2-1(34.6mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_2-0(32.05mm,94.5mm) on Multi-Layer And Pad LED_2-2(34.6mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_2-0(32.05mm,94.5mm) on Multi-Layer And Pad LED_2-3(29.5mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_2-0(32.05mm,94.5mm) on Multi-Layer And Pad LED_2-4(29.5mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_20-0(117.663mm,75.45mm) on Multi-Layer And Pad LED_20-1(120.213mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_20-0(117.663mm,75.45mm) on Multi-Layer And Pad LED_20-2(120.213mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_20-0(117.663mm,75.45mm) on Multi-Layer And Pad LED_20-3(115.113mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_20-0(117.663mm,75.45mm) on Multi-Layer And Pad LED_20-4(115.113mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_21-0(136.713mm,75.45mm) on Multi-Layer And Pad LED_21-1(139.263mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_21-0(136.713mm,75.45mm) on Multi-Layer And Pad LED_21-2(139.263mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_21-0(136.713mm,75.45mm) on Multi-Layer And Pad LED_21-3(134.163mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_21-0(136.713mm,75.45mm) on Multi-Layer And Pad LED_21-4(134.163mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_22-0(155.763mm,75.45mm) on Multi-Layer And Pad LED_22-1(158.313mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_22-0(155.763mm,75.45mm) on Multi-Layer And Pad LED_22-2(158.313mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_22-0(155.763mm,75.45mm) on Multi-Layer And Pad LED_22-3(153.213mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_22-0(155.763mm,75.45mm) on Multi-Layer And Pad LED_22-4(153.213mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_23-0(174.813mm,75.45mm) on Multi-Layer And Pad LED_23-1(177.363mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_23-0(174.813mm,75.45mm) on Multi-Layer And Pad LED_23-2(177.363mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_23-0(174.813mm,75.45mm) on Multi-Layer And Pad LED_23-3(172.263mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_23-0(174.813mm,75.45mm) on Multi-Layer And Pad LED_23-4(172.263mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_24-0(193.863mm,75.45mm) on Multi-Layer And Pad LED_24-1(196.413mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_24-0(193.863mm,75.45mm) on Multi-Layer And Pad LED_24-2(196.413mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_24-0(193.863mm,75.45mm) on Multi-Layer And Pad LED_24-3(191.313mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_24-0(193.863mm,75.45mm) on Multi-Layer And Pad LED_24-4(191.313mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_25-0(212.913mm,75.45mm) on Multi-Layer And Pad LED_25-1(215.463mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_25-0(212.913mm,75.45mm) on Multi-Layer And Pad LED_25-2(215.463mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_25-0(212.913mm,75.45mm) on Multi-Layer And Pad LED_25-3(210.363mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_25-0(212.913mm,75.45mm) on Multi-Layer And Pad LED_25-4(210.363mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_26-0(231.963mm,75.45mm) on Multi-Layer And Pad LED_26-1(234.513mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_26-0(231.963mm,75.45mm) on Multi-Layer And Pad LED_26-2(234.513mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_26-0(231.963mm,75.45mm) on Multi-Layer And Pad LED_26-3(229.413mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_26-0(231.963mm,75.45mm) on Multi-Layer And Pad LED_26-4(229.413mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_27-0(251.013mm,75.45mm) on Multi-Layer And Pad LED_27-1(253.563mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_27-0(251.013mm,75.45mm) on Multi-Layer And Pad LED_27-2(253.563mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_27-0(251.013mm,75.45mm) on Multi-Layer And Pad LED_27-3(248.463mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_27-0(251.013mm,75.45mm) on Multi-Layer And Pad LED_27-4(248.463mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_28-0(274.825mm,75.45mm) on Multi-Layer And Pad LED_28-1(277.375mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_28-0(274.825mm,75.45mm) on Multi-Layer And Pad LED_28-2(277.375mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_28-0(274.825mm,75.45mm) on Multi-Layer And Pad LED_28-3(272.275mm,76.25mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_28-0(274.825mm,75.45mm) on Multi-Layer And Pad LED_28-4(272.275mm,74.65mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_29-0(20.3mm,56.4mm) on Multi-Layer And Pad LED_29-1(22.85mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_29-0(20.3mm,56.4mm) on Multi-Layer And Pad LED_29-2(22.85mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_29-0(20.3mm,56.4mm) on Multi-Layer And Pad LED_29-3(17.75mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_29-0(20.3mm,56.4mm) on Multi-Layer And Pad LED_29-4(17.75mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_3-0(51.1mm,94.5mm) on Multi-Layer And Pad LED_3-1(53.65mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_3-0(51.1mm,94.5mm) on Multi-Layer And Pad LED_3-2(53.65mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_3-0(51.1mm,94.5mm) on Multi-Layer And Pad LED_3-3(48.55mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_3-0(51.1mm,94.5mm) on Multi-Layer And Pad LED_3-4(48.55mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_30-0(46.494mm,56.4mm) on Multi-Layer And Pad LED_30-1(49.044mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_30-0(46.494mm,56.4mm) on Multi-Layer And Pad LED_30-2(49.044mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_30-0(46.494mm,56.4mm) on Multi-Layer And Pad LED_30-3(43.944mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_30-0(46.494mm,56.4mm) on Multi-Layer And Pad LED_30-4(43.944mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_31-0(65.544mm,56.4mm) on Multi-Layer And Pad LED_31-1(68.094mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_31-0(65.544mm,56.4mm) on Multi-Layer And Pad LED_31-2(68.094mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_31-0(65.544mm,56.4mm) on Multi-Layer And Pad LED_31-3(62.994mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_31-0(65.544mm,56.4mm) on Multi-Layer And Pad LED_31-4(62.994mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_32-0(84.594mm,56.4mm) on Multi-Layer And Pad LED_32-1(87.144mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_32-0(84.594mm,56.4mm) on Multi-Layer And Pad LED_32-2(87.144mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_32-0(84.594mm,56.4mm) on Multi-Layer And Pad LED_32-3(82.044mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_32-0(84.594mm,56.4mm) on Multi-Layer And Pad LED_32-4(82.044mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_33-0(103.644mm,56.4mm) on Multi-Layer And Pad LED_33-1(106.194mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_33-0(103.644mm,56.4mm) on Multi-Layer And Pad LED_33-2(106.194mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_33-0(103.644mm,56.4mm) on Multi-Layer And Pad LED_33-3(101.094mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_33-0(103.644mm,56.4mm) on Multi-Layer And Pad LED_33-4(101.094mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_34-0(122.694mm,56.4mm) on Multi-Layer And Pad LED_34-1(125.244mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_34-0(122.694mm,56.4mm) on Multi-Layer And Pad LED_34-2(125.244mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_34-0(122.694mm,56.4mm) on Multi-Layer And Pad LED_34-3(120.144mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_34-0(122.694mm,56.4mm) on Multi-Layer And Pad LED_34-4(120.144mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_35-0(141.744mm,56.4mm) on Multi-Layer And Pad LED_35-1(144.294mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_35-0(141.744mm,56.4mm) on Multi-Layer And Pad LED_35-2(144.294mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_35-0(141.744mm,56.4mm) on Multi-Layer And Pad LED_35-3(139.194mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_35-0(141.744mm,56.4mm) on Multi-Layer And Pad LED_35-4(139.194mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_36-0(160.794mm,56.4mm) on Multi-Layer And Pad LED_36-1(163.344mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_36-0(160.794mm,56.4mm) on Multi-Layer And Pad LED_36-2(163.344mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_36-0(160.794mm,56.4mm) on Multi-Layer And Pad LED_36-3(158.244mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_36-0(160.794mm,56.4mm) on Multi-Layer And Pad LED_36-4(158.244mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_37-0(179.844mm,56.4mm) on Multi-Layer And Pad LED_37-1(182.394mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_37-0(179.844mm,56.4mm) on Multi-Layer And Pad LED_37-2(182.394mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_37-0(179.844mm,56.4mm) on Multi-Layer And Pad LED_37-3(177.294mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_37-0(179.844mm,56.4mm) on Multi-Layer And Pad LED_37-4(177.294mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_38-0(198.894mm,56.4mm) on Multi-Layer And Pad LED_38-1(201.444mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_38-0(198.894mm,56.4mm) on Multi-Layer And Pad LED_38-2(201.444mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_38-0(198.894mm,56.4mm) on Multi-Layer And Pad LED_38-3(196.344mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_38-0(198.894mm,56.4mm) on Multi-Layer And Pad LED_38-4(196.344mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_39-0(217.944mm,56.4mm) on Multi-Layer And Pad LED_39-1(220.494mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_39-0(217.944mm,56.4mm) on Multi-Layer And Pad LED_39-2(220.494mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_39-0(217.944mm,56.4mm) on Multi-Layer And Pad LED_39-3(215.394mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_39-0(217.944mm,56.4mm) on Multi-Layer And Pad LED_39-4(215.394mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_4-0(70.15mm,94.5mm) on Multi-Layer And Pad LED_4-1(72.7mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_4-0(70.15mm,94.5mm) on Multi-Layer And Pad LED_4-2(72.7mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_4-0(70.15mm,94.5mm) on Multi-Layer And Pad LED_4-3(67.6mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_4-0(70.15mm,94.5mm) on Multi-Layer And Pad LED_4-4(67.6mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_40-0(236.994mm,56.4mm) on Multi-Layer And Pad LED_40-1(239.544mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_40-0(236.994mm,56.4mm) on Multi-Layer And Pad LED_40-2(239.544mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_40-0(236.994mm,56.4mm) on Multi-Layer And Pad LED_40-3(234.444mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_40-0(236.994mm,56.4mm) on Multi-Layer And Pad LED_40-4(234.444mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_41-0(267.95mm,56.4mm) on Multi-Layer And Pad LED_41-1(270.5mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_41-0(267.95mm,56.4mm) on Multi-Layer And Pad LED_41-2(270.5mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_41-0(267.95mm,56.4mm) on Multi-Layer And Pad LED_41-3(265.4mm,57.2mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_41-0(267.95mm,56.4mm) on Multi-Layer And Pad LED_41-4(265.4mm,55.6mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_42-0(22.6mm,37.35mm) on Multi-Layer And Pad LED_42-1(25.15mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_42-0(22.6mm,37.35mm) on Multi-Layer And Pad LED_42-2(25.15mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_42-0(22.6mm,37.35mm) on Multi-Layer And Pad LED_42-3(20.05mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_42-0(22.6mm,37.35mm) on Multi-Layer And Pad LED_42-4(20.05mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_43-0(51.175mm,37.35mm) on Multi-Layer And Pad LED_43-1(53.725mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_43-0(51.175mm,37.35mm) on Multi-Layer And Pad LED_43-2(53.725mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_43-0(51.175mm,37.35mm) on Multi-Layer And Pad LED_43-3(48.625mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_43-0(51.175mm,37.35mm) on Multi-Layer And Pad LED_43-4(48.625mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_44-0(70.225mm,37.35mm) on Multi-Layer And Pad LED_44-1(72.775mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_44-0(70.225mm,37.35mm) on Multi-Layer And Pad LED_44-2(72.775mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_44-0(70.225mm,37.35mm) on Multi-Layer And Pad LED_44-3(67.675mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_44-0(70.225mm,37.35mm) on Multi-Layer And Pad LED_44-4(67.675mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_45-0(89.275mm,37.35mm) on Multi-Layer And Pad LED_45-1(91.825mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_45-0(89.275mm,37.35mm) on Multi-Layer And Pad LED_45-2(91.825mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_45-0(89.275mm,37.35mm) on Multi-Layer And Pad LED_45-3(86.725mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_45-0(89.275mm,37.35mm) on Multi-Layer And Pad LED_45-4(86.725mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_46-0(108.325mm,37.35mm) on Multi-Layer And Pad LED_46-1(110.875mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_46-0(108.325mm,37.35mm) on Multi-Layer And Pad LED_46-2(110.875mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_46-0(108.325mm,37.35mm) on Multi-Layer And Pad LED_46-3(105.775mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_46-0(108.325mm,37.35mm) on Multi-Layer And Pad LED_46-4(105.775mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_47-0(127.375mm,37.35mm) on Multi-Layer And Pad LED_47-1(129.925mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_47-0(127.375mm,37.35mm) on Multi-Layer And Pad LED_47-2(129.925mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_47-0(127.375mm,37.35mm) on Multi-Layer And Pad LED_47-3(124.825mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_47-0(127.375mm,37.35mm) on Multi-Layer And Pad LED_47-4(124.825mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_48-0(146.425mm,37.35mm) on Multi-Layer And Pad LED_48-1(148.975mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_48-0(146.425mm,37.35mm) on Multi-Layer And Pad LED_48-2(148.975mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_48-0(146.425mm,37.35mm) on Multi-Layer And Pad LED_48-3(143.875mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_48-0(146.425mm,37.35mm) on Multi-Layer And Pad LED_48-4(143.875mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_49-0(165.475mm,37.35mm) on Multi-Layer And Pad LED_49-1(168.025mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_49-0(165.475mm,37.35mm) on Multi-Layer And Pad LED_49-2(168.025mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_49-0(165.475mm,37.35mm) on Multi-Layer And Pad LED_49-3(162.925mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_49-0(165.475mm,37.35mm) on Multi-Layer And Pad LED_49-4(162.925mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_5-0(89.2mm,94.5mm) on Multi-Layer And Pad LED_5-1(91.75mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_5-0(89.2mm,94.5mm) on Multi-Layer And Pad LED_5-2(91.75mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_5-0(89.2mm,94.5mm) on Multi-Layer And Pad LED_5-3(86.65mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_5-0(89.2mm,94.5mm) on Multi-Layer And Pad LED_5-4(86.65mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_50-0(184.525mm,37.35mm) on Multi-Layer And Pad LED_50-1(187.075mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_50-0(184.525mm,37.35mm) on Multi-Layer And Pad LED_50-2(187.075mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_50-0(184.525mm,37.35mm) on Multi-Layer And Pad LED_50-3(181.975mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_50-0(184.525mm,37.35mm) on Multi-Layer And Pad LED_50-4(181.975mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_51-0(203.575mm,37.35mm) on Multi-Layer And Pad LED_51-1(206.125mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_51-0(203.575mm,37.35mm) on Multi-Layer And Pad LED_51-2(206.125mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_51-0(203.575mm,37.35mm) on Multi-Layer And Pad LED_51-3(201.025mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_51-0(203.575mm,37.35mm) on Multi-Layer And Pad LED_51-4(201.025mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_52-0(222.625mm,37.35mm) on Multi-Layer And Pad LED_52-1(225.175mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_52-0(222.625mm,37.35mm) on Multi-Layer And Pad LED_52-2(225.175mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_52-0(222.625mm,37.35mm) on Multi-Layer And Pad LED_52-3(220.075mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_52-0(222.625mm,37.35mm) on Multi-Layer And Pad LED_52-4(220.075mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_53-0(241.675mm,37.35mm) on Multi-Layer And Pad LED_53-1(244.225mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_53-0(241.675mm,37.35mm) on Multi-Layer And Pad LED_53-2(244.225mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_53-0(241.675mm,37.35mm) on Multi-Layer And Pad LED_53-3(239.125mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_53-0(241.675mm,37.35mm) on Multi-Layer And Pad LED_53-4(239.125mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_54-0(260.725mm,37.35mm) on Multi-Layer And Pad LED_54-1(263.275mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_54-0(260.725mm,37.35mm) on Multi-Layer And Pad LED_54-2(263.275mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_54-0(260.725mm,37.35mm) on Multi-Layer And Pad LED_54-3(258.175mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_54-0(260.725mm,37.35mm) on Multi-Layer And Pad LED_54-4(258.175mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_55-0(279.775mm,37.35mm) on Multi-Layer And Pad LED_55-1(282.325mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_55-0(279.775mm,37.35mm) on Multi-Layer And Pad LED_55-2(282.325mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_55-0(279.775mm,37.35mm) on Multi-Layer And Pad LED_55-3(277.225mm,38.15mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_55-0(279.775mm,37.35mm) on Multi-Layer And Pad LED_55-4(277.225mm,36.55mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_56-0(15.456mm,18.3mm) on Multi-Layer And Pad LED_56-1(18.006mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_56-0(15.456mm,18.3mm) on Multi-Layer And Pad LED_56-2(18.006mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_56-0(15.456mm,18.3mm) on Multi-Layer And Pad LED_56-3(12.906mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_56-0(15.456mm,18.3mm) on Multi-Layer And Pad LED_56-4(12.906mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_57-0(39.269mm,18.3mm) on Multi-Layer And Pad LED_57-1(41.819mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_57-0(39.269mm,18.3mm) on Multi-Layer And Pad LED_57-2(41.819mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_57-0(39.269mm,18.3mm) on Multi-Layer And Pad LED_57-3(36.719mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_57-0(39.269mm,18.3mm) on Multi-Layer And Pad LED_57-4(36.719mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_58-0(63.081mm,18.3mm) on Multi-Layer And Pad LED_58-1(65.631mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_58-0(63.081mm,18.3mm) on Multi-Layer And Pad LED_58-2(65.631mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_58-0(63.081mm,18.3mm) on Multi-Layer And Pad LED_58-3(60.531mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_58-0(63.081mm,18.3mm) on Multi-Layer And Pad LED_58-4(60.531mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_59-0(134.519mm,18.3mm) on Multi-Layer And Pad LED_59-1(137.069mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_59-0(134.519mm,18.3mm) on Multi-Layer And Pad LED_59-2(137.069mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_59-0(134.519mm,18.3mm) on Multi-Layer And Pad LED_59-3(131.969mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_59-0(134.519mm,18.3mm) on Multi-Layer And Pad LED_59-4(131.969mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_6-0(127.3mm,94.5mm) on Multi-Layer And Pad LED_6-1(129.85mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_6-0(127.3mm,94.5mm) on Multi-Layer And Pad LED_6-2(129.85mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_6-0(127.3mm,94.5mm) on Multi-Layer And Pad LED_6-3(124.75mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_6-0(127.3mm,94.5mm) on Multi-Layer And Pad LED_6-4(124.75mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_60-0(203.575mm,18.3mm) on Multi-Layer And Pad LED_60-1(206.125mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_60-0(203.575mm,18.3mm) on Multi-Layer And Pad LED_60-2(206.125mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_60-0(203.575mm,18.3mm) on Multi-Layer And Pad LED_60-3(201.025mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_60-0(203.575mm,18.3mm) on Multi-Layer And Pad LED_60-4(201.025mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_61-0(222.625mm,18.3mm) on Multi-Layer And Pad LED_61-1(225.175mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_61-0(222.625mm,18.3mm) on Multi-Layer And Pad LED_61-2(225.175mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_61-0(222.625mm,18.3mm) on Multi-Layer And Pad LED_61-3(220.075mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_61-0(222.625mm,18.3mm) on Multi-Layer And Pad LED_61-4(220.075mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_62-0(241.675mm,18.3mm) on Multi-Layer And Pad LED_62-1(244.225mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_62-0(241.675mm,18.3mm) on Multi-Layer And Pad LED_62-2(244.225mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_62-0(241.675mm,18.3mm) on Multi-Layer And Pad LED_62-3(239.125mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_62-0(241.675mm,18.3mm) on Multi-Layer And Pad LED_62-4(239.125mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_63-0(260.725mm,18.3mm) on Multi-Layer And Pad LED_63-1(263.275mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_63-0(260.725mm,18.3mm) on Multi-Layer And Pad LED_63-2(263.275mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_63-0(260.725mm,18.3mm) on Multi-Layer And Pad LED_63-3(258.175mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_63-0(260.725mm,18.3mm) on Multi-Layer And Pad LED_63-4(258.175mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_64-0(279.775mm,18.3mm) on Multi-Layer And Pad LED_64-1(282.325mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_64-0(279.775mm,18.3mm) on Multi-Layer And Pad LED_64-2(282.325mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_64-0(279.775mm,18.3mm) on Multi-Layer And Pad LED_64-3(277.225mm,19.1mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_64-0(279.775mm,18.3mm) on Multi-Layer And Pad LED_64-4(277.225mm,17.5mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_7-0(108.25mm,94.5mm) on Multi-Layer And Pad LED_7-1(110.8mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_7-0(108.25mm,94.5mm) on Multi-Layer And Pad LED_7-2(110.8mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_7-0(108.25mm,94.5mm) on Multi-Layer And Pad LED_7-3(105.7mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_7-0(108.25mm,94.5mm) on Multi-Layer And Pad LED_7-4(105.7mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_8-0(146.35mm,94.5mm) on Multi-Layer And Pad LED_8-1(148.9mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_8-0(146.35mm,94.5mm) on Multi-Layer And Pad LED_8-2(148.9mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_8-0(146.35mm,94.5mm) on Multi-Layer And Pad LED_8-3(143.8mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_8-0(146.35mm,94.5mm) on Multi-Layer And Pad LED_8-4(143.8mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_9-0(165.4mm,94.5mm) on Multi-Layer And Pad LED_9-1(167.95mm,93.7mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_9-0(165.4mm,94.5mm) on Multi-Layer And Pad LED_9-2(167.95mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_9-0(165.4mm,94.5mm) on Multi-Layer And Pad LED_9-3(162.85mm,95.3mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.05mm < 0.125mm) Between Pad LED_9-0(165.4mm,94.5mm) on Multi-Layer And Pad LED_9-4(162.85mm,93.7mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH10-1(192mm,7mm) on Multi-Layer And Pad S60-1(195.32mm,8.1mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH16-1(258.125mm,91mm) on Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH18-1(255.975mm,52.875mm) on Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH20-1(10.625mm,33.8mm) on Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer 
-Rule Violations :260
+Rule Violations :4
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+   Violation between Short-Circuit Constraint: Between Pad MH10-1(192mm,7mm) on Multi-Layer And Pad S60-1(195.32mm,8.1mm) on Bottom Layer Location : [X = 229.374mm][Y = 47.761mm]
+   Violation between Short-Circuit Constraint: Between Pad MH16-1(258.125mm,91mm) on Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer Location : [X = 296.148mm][Y = 124.325mm]
+   Violation between Short-Circuit Constraint: Between Pad MH18-1(255.975mm,52.875mm) on Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer Location : [X = 293.96mm][Y = 86.212mm]
+   Violation between Short-Circuit Constraint: Between Pad MH20-1(10.625mm,33.8mm) on Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer Location : [X = 48.61mm][Y = 67.15mm]
+Rule Violations :4
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C_47-2(121.175mm,39.95mm) on Bottom Layer And Pad LED_47-1(129.925mm,36.55mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D10-2(176.025mm,90.125mm) on Bottom Layer And Pad D11-2(195.025mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D9-2(156.975mm,90.125mm) on Bottom Layer And Pad D10-2(176.025mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D11-2(195.025mm,90.125mm) on Bottom Layer And Pad D12-2(217.475mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D1-2(20.5mm,90.125mm) on Bottom Layer And Pad D2-2(24.3mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D12-2(217.475mm,90.125mm) on Bottom Layer And Pad D13-2(233.25mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D13-2(233.25mm,90.125mm) on Bottom Layer And Pad D14-2(263.15mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D2-2(24.3mm,90.125mm) on Bottom Layer And Pad D3-2(42.75mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D29-2(11.875mm,52.025mm) on Bottom Layer And Pad D30-2(54.55mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D30-2(54.55mm,52.025mm) on Bottom Layer And Pad D31-2(57.55mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D31-2(57.55mm,52.025mm) on Bottom Layer And Pad D32-2(76.15mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D3-2(42.75mm,90.125mm) on Bottom Layer And Pad D4-2(65.075mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D32-2(76.15mm,52.025mm) on Bottom Layer And Pad D33-2(95.25mm,52.4mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D33-2(95.25mm,52.4mm) on Bottom Layer And Pad D34-2(117.425mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D34-2(117.425mm,52.025mm) on Bottom Layer And Pad D35-2(133.375mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Track (106.225mm,9.425mm)(108.45mm,11.65mm) on Bottom Layer And Pad D34-2(117.425mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D35-2(133.375mm,52.025mm) on Bottom Layer And Pad D36-2(152.475mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D36-2(152.475mm,52.025mm) on Bottom Layer And Pad D37-2(171.4mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D37-2(171.4mm,52.025mm) on Bottom Layer And Pad D38-2(193.7mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D38-2(193.7mm,52.025mm) on Bottom Layer And Pad D39-2(209.7mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D39-2(209.7mm,52.025mm) on Bottom Layer And Pad D40-2(228.725mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW3 Between Pad D40-2(228.725mm,52.025mm) on Bottom Layer And Pad D41-2(261.35mm,52.025mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D4-2(65.075mm,90.125mm) on Bottom Layer And Pad D5-2(84.05mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D5-2(84.05mm,90.125mm) on Bottom Layer And Pad D6-2(99.975mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D6-2(99.975mm,90.125mm) on Bottom Layer And Pad D7-2(118.875mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D6-2(99.975mm,90.125mm) on Bottom Layer And Track (105.894mm,10.225mm)(107.472mm,11.803mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D7-2(118.875mm,90.125mm) on Bottom Layer And Pad D8-2(138.05mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ROW1 Between Pad D8-2(138.05mm,90.125mm) on Bottom Layer And Pad D9-2(156.975mm,90.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net OS_1 Between Pad J1-3(31.375mm,52.925mm) on Bottom Layer And Pad U1-17(100.73mm,8.005mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad U1-34(95.81mm,13.925mm) on Bottom Layer And Pad J2-2(175.55mm,11.445mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net \N\R\S\T\ Between Pad U1-7(104.15mm,11.925mm) on Bottom Layer And Pad J2-4(175.55mm,16.525mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetLED69_1 Between Pad LED69-1(2.085mm,97.05mm) on Top Layer And Pad LED70-3(289.615mm,81.95mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net OS_2 Between Pad J1-4(32.375mm,52.925mm) on Bottom Layer And Pad U1-29(95.81mm,11.425mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net OS_3 Between Pad J1-5(33.375mm,52.925mm) on Bottom Layer And Pad U1-30(95.81mm,11.925mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad J1-6(34.375mm,52.925mm) on Bottom Layer And Pad U1-48(102.73mm,16.345mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net SWDIO Between Pad U1-34(95.81mm,13.925mm) on Bottom Layer And Pad J2-2(178.3mm,11.445mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SWCLK Between Pad U1-37(97.23mm,16.345mm) on Bottom Layer And Pad J2-3(178.3mm,13.985mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net \N\R\S\T\ Between Pad U1-7(104.15mm,11.925mm) on Bottom Layer And Pad J2-4(178.3mm,16.525mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH10-1(192mm,7mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH1-1(7mm,78mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH16-1(258.125mm,91mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH17-1(282.125mm,91mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH18-1(255.975mm,52.875mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH19-1(279.975mm,52.875mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH20-1(10.625mm,33.8mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH2-1(60.625mm,89mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH21-1(34.625mm,33.8mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH22-1(84.269mm,14.75mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH23-1(184.769mm,14.75mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH24-1(270.25mm,12.8mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH3-1(79.675mm,89mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH4-1(212.925mm,89mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH5-1(285.325mm,78mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH6-1(113.175mm,50.9mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Unplated Pad MH7-1(189.35mm,50.9mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetS10_2 Between Pad S10-2(190.905mm,83.25mm) on Bottom Layer And Pad S24-2(200.318mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS11_2 Between Pad S11-2(209.955mm,83.25mm) on Bottom Layer And Pad S25-2(219.368mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS12_2 Between Pad S12-2(229.005mm,83.25mm) on Bottom Layer And Pad S26-2(238.418mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS13_2 Between Pad S13-2(248.055mm,83.25mm) on Bottom Layer And Pad S27-2(257.468mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS2_2 Between Pad S2-2(38.505mm,83.25mm) on Bottom Layer And Pad S16-2(47.918mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS2_2 Between Pad S16-2(47.918mm,64.2mm) on Bottom Layer And Pad S30-2(52.949mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS4_2 Between Pad S18-2(86.018mm,64.2mm) on Bottom Layer And Pad S32-2(91.049mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS4_2 Between Pad S4-2(76.605mm,83.25mm) on Bottom Layer And Pad S18-2(86.018mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS8_2 Between Pad S22-2(162.218mm,64.2mm) on Bottom Layer And Pad S36-2(167.249mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS8_2 Between Pad S8-2(152.805mm,83.25mm) on Bottom Layer And Pad S22-2(162.218mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS9_2 Between Pad S23-2(181.268mm,64.2mm) on Bottom Layer And Pad S37-2(186.299mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS9_2 Between Pad S9-2(171.855mm,83.25mm) on Bottom Layer And Pad S23-2(181.268mm,64.2mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS10_2 Between Pad S24-2(200.318mm,64.2mm) on Bottom Layer And Pad S38-2(205.349mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS11_2 Between Pad S25-2(219.368mm,64.2mm) on Bottom Layer And Pad S39-2(224.399mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS12_2 Between Pad S26-2(238.418mm,64.2mm) on Bottom Layer And Pad S40-2(243.449mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS13_2 Between Pad S27-2(257.468mm,64.2mm) on Bottom Layer And Pad S54-2(267.18mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS1_2 Between Pad S29-2(26.755mm,45.15mm) on Bottom Layer And Pad S42-2(29.055mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS1_2 Between Track (24.075mm,64.23mm)(24.075mm,68.075mm) on Bottom Layer And Pad S29-2(26.755mm,45.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS2_2 Between Pad S30-2(52.949mm,45.15mm) on Bottom Layer And Pad S43-2(57.63mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS4_2 Between Pad S32-2(91.049mm,45.15mm) on Bottom Layer And Pad S45-2(95.73mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS8_2 Between Pad S36-2(167.249mm,45.15mm) on Bottom Layer And Pad S49-2(171.93mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS9_2 Between Pad S37-2(186.299mm,45.15mm) on Bottom Layer And Pad S50-2(190.98mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS10_2 Between Pad S38-2(205.349mm,45.15mm) on Bottom Layer And Pad S51-2(210.03mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS11_2 Between Pad S39-2(224.399mm,45.15mm) on Bottom Layer And Pad S52-2(229.08mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS12_2 Between Pad S40-2(243.449mm,45.15mm) on Bottom Layer And Pad S53-2(248.13mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS1_2 Between Pad S56-2(21.912mm,7.05mm) on Bottom Layer And Pad S42-2(29.055mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS2_2 Between Pad S57-2(45.724mm,7.05mm) on Bottom Layer And Pad S43-2(57.63mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS4_2 Between Pad S45-2(95.73mm,26.1mm) on Bottom Layer And Pad U1-39(98.23mm,16.345mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS8_2 Between Pad U1-43(100.23mm,16.345mm) on Bottom Layer And Pad S49-2(171.93mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS9_2 Between Pad U1-45(101.23mm,16.345mm) on Bottom Layer And Pad S50-2(190.98mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS10_2 Between Pad S60-2(210.03mm,7.05mm) on Bottom Layer And Pad S51-2(210.03mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS11_2 Between Pad S61-2(229.08mm,7.05mm) on Bottom Layer And Pad S52-2(229.08mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS12_2 Between Pad S62-2(248.13mm,7.05mm) on Bottom Layer And Pad S53-2(248.13mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS13_2 Between Pad S63-2(267.18mm,7.05mm) on Bottom Layer And Pad S54-2(267.18mm,26.1mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS1_2 Between Pad S56-2(21.912mm,7.05mm) on Bottom Layer And Pad U1-18(100.23mm,8.005mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS2_2 Between Pad S57-2(45.724mm,7.05mm) on Bottom Layer And Pad U1-19(99.73mm,8.005mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS10_2 Between Pad U1-46(101.73mm,16.345mm) on Bottom Layer And Pad S60-2(210.03mm,7.05mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS11_2 Between Pad U1-21(98.73mm,8.005mm) on Bottom Layer And Pad S61-2(229.08mm,7.05mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS12_2 Between Pad U1-22(98.23mm,8.005mm) on Bottom Layer And Pad S62-2(248.13mm,7.05mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetS13_2 Between Pad U1-25(95.81mm,9.425mm) on Bottom Layer And Pad S63-2(267.18mm,7.05mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net LEDS_STAT Between Pad U1-16(101.23mm,8.005mm) on Bottom Layer And Pad U4-3(154.325mm,18.805mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VBUS Between Pad U2-6(150.355mm,5.65mm) on Bottom Layer And Pad U4-6(152.425mm,16.295mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VBUS Between Track (131.944mm,19.125mm)(131.969mm,19.1mm) on Bottom Layer And Pad U4-6(152.425mm,16.295mm) on Bottom Layer 
-Rule Violations :82
+   Violation between Un-Routed Net Constraint: Unplated Pad MH8-1(27.15mm,12.8mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Unplated Pad MH9-1(117mm,7mm) on Multi-Layer 
+Rule Violations :25
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -386,149 +75,14 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5mm) (All)
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH10-1(192mm,7mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH1-1(7mm,78mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH16-1(258.125mm,91mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH16-1(258.125mm,91mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH17-1(282.125mm,91mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH17-1(282.125mm,91mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH18-1(255.975mm,52.875mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH18-1(255.975mm,52.875mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH19-1(279.975mm,52.875mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH19-1(279.975mm,52.875mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH20-1(10.625mm,33.8mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH20-1(10.625mm,33.8mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH2-1(60.625mm,89mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH21-1(34.625mm,33.8mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH21-1(34.625mm,33.8mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH22-1(84.269mm,14.75mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH22-1(84.269mm,14.75mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (15.85mm > 5mm) Pad MH23-1(184.769mm,14.75mm) on Multi-Layer Actual Rectangular Hole Width = 15.85mm
-   Violation between Hole Size Constraint: (7mm > 5mm) Pad MH23-1(184.769mm,14.75mm) on Multi-Layer Actual Rectangular Hole Height = 7mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH24-1(270.25mm,12.8mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH3-1(79.675mm,89mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH4-1(212.925mm,89mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH5-1(285.325mm,78mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH6-1(113.175mm,50.9mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH7-1(189.35mm,50.9mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH8-1(27.15mm,12.8mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.35mm > 5mm) Pad MH9-1(117mm,7mm) on Multi-Layer Actual Hole Size = 5.35mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S1-0(13mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S10-0(184.45mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S11-0(203.5mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S12-0(222.55mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S13-0(241.6mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S14-0(270.175mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S15-0(17.65mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S16-0(41.463mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S17-0(60.513mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S18-0(79.563mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S19-0(98.613mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S2-0(32.05mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S20-0(117.663mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S21-0(136.713mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S22-0(155.763mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S23-0(174.813mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S24-0(193.863mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S25-0(212.913mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S26-0(231.963mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S27-0(251.013mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S28-0(274.825mm,69.95mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S29-0(20.3mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S3-0(51.1mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S30-0(46.494mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S31-0(65.544mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S32-0(84.594mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S33-0(103.644mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S34-0(122.694mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S35-0(141.744mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S36-0(160.794mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S37-0(179.844mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S38-0(198.894mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S39-0(217.944mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S4-0(70.15mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S40-0(236.994mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S41-0(267.95mm,50.9mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S42-0(22.6mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S43-0(51.175mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S44-0(70.225mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S45-0(89.275mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S46-0(108.325mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S47-0(127.375mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S48-0(146.425mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S49-0(165.475mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S5-0(89.2mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S50-0(184.525mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S51-0(203.575mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S52-0(222.625mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S53-0(241.675mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S54-0(260.725mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S55-0(279.775mm,31.85mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S56-0(15.456mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S57-0(39.269mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S58-0(63.081mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S59-0(134.519mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S6-0(108.25mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S60-0(203.575mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S61-0(222.625mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S62-0(241.675mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S63-0(260.725mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S64-0(279.775mm,12.8mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S7-0(127.3mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S8-0(146.35mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-   Violation between Hole Size Constraint: (5.1mm > 5mm) Pad S9-0(165.4mm,89mm) on Multi-Layer Actual Hole Size = 5.1mm
-Rule Violations :91
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=20mm) (All)
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.075mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-1(104.15mm,14.925mm) on Bottom Layer And Pad U1-2(104.15mm,14.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-10(104.15mm,10.425mm) on Bottom Layer And Pad U1-11(104.15mm,9.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-10(104.15mm,10.425mm) on Bottom Layer And Pad U1-9(104.15mm,10.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-11(104.15mm,9.925mm) on Bottom Layer And Pad U1-12(104.15mm,9.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-13(102.73mm,8.005mm) on Bottom Layer And Pad U1-14(102.23mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-14(102.23mm,8.005mm) on Bottom Layer And Pad U1-15(101.73mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-15(101.73mm,8.005mm) on Bottom Layer And Pad U1-16(101.23mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-16(101.23mm,8.005mm) on Bottom Layer And Pad U1-17(100.73mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-17(100.73mm,8.005mm) on Bottom Layer And Pad U1-18(100.23mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-18(100.23mm,8.005mm) on Bottom Layer And Pad U1-19(99.73mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-19(99.73mm,8.005mm) on Bottom Layer And Pad U1-20(99.23mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-2(104.15mm,14.425mm) on Bottom Layer And Pad U1-3(104.15mm,13.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-20(99.23mm,8.005mm) on Bottom Layer And Pad U1-21(98.73mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-21(98.73mm,8.005mm) on Bottom Layer And Pad U1-22(98.23mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-22(98.23mm,8.005mm) on Bottom Layer And Pad U1-23(97.73mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-23(97.73mm,8.005mm) on Bottom Layer And Pad U1-24(97.23mm,8.005mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-25(95.81mm,9.425mm) on Bottom Layer And Pad U1-26(95.81mm,9.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-26(95.81mm,9.925mm) on Bottom Layer And Pad U1-27(95.81mm,10.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-27(95.81mm,10.425mm) on Bottom Layer And Pad U1-28(95.81mm,10.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-28(95.81mm,10.925mm) on Bottom Layer And Pad U1-29(95.81mm,11.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-29(95.81mm,11.425mm) on Bottom Layer And Pad U1-30(95.81mm,11.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-3(104.15mm,13.925mm) on Bottom Layer And Pad U1-4(104.15mm,13.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-30(95.81mm,11.925mm) on Bottom Layer And Pad U1-31(95.81mm,12.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-31(95.81mm,12.425mm) on Bottom Layer And Pad U1-32(95.81mm,12.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-32(95.81mm,12.925mm) on Bottom Layer And Pad U1-33(95.81mm,13.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-33(95.81mm,13.425mm) on Bottom Layer And Pad U1-34(95.81mm,13.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-34(95.81mm,13.925mm) on Bottom Layer And Pad U1-35(95.81mm,14.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-35(95.81mm,14.425mm) on Bottom Layer And Pad U1-36(95.81mm,14.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-37(97.23mm,16.345mm) on Bottom Layer And Pad U1-38(97.73mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-38(97.73mm,16.345mm) on Bottom Layer And Pad U1-39(98.23mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-39(98.23mm,16.345mm) on Bottom Layer And Pad U1-40(98.73mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-4(104.15mm,13.425mm) on Bottom Layer And Pad U1-5(104.15mm,12.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-40(98.73mm,16.345mm) on Bottom Layer And Pad U1-41(99.23mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-41(99.23mm,16.345mm) on Bottom Layer And Pad U1-42(99.73mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-42(99.73mm,16.345mm) on Bottom Layer And Pad U1-43(100.23mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-43(100.23mm,16.345mm) on Bottom Layer And Pad U1-44(100.73mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-44(100.73mm,16.345mm) on Bottom Layer And Pad U1-45(101.23mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-45(101.23mm,16.345mm) on Bottom Layer And Pad U1-46(101.73mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-46(101.73mm,16.345mm) on Bottom Layer And Pad U1-47(102.23mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-47(102.23mm,16.345mm) on Bottom Layer And Pad U1-48(102.73mm,16.345mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-5(104.15mm,12.925mm) on Bottom Layer And Pad U1-6(104.15mm,12.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-6(104.15mm,12.425mm) on Bottom Layer And Pad U1-7(104.15mm,11.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-7(104.15mm,11.925mm) on Bottom Layer And Pad U1-8(104.15mm,11.425mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.075mm) Between Pad U1-8(104.15mm,11.425mm) on Bottom Layer And Pad U1-9(104.15mm,10.925mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.017mm]
-Rule Violations :44
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.015mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
 Rule Violations :0
@@ -537,11 +91,7 @@ Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (105.894mm,10.225mm)(107.472mm,11.803mm) on Bottom Layer 
-   Violation between Net Antennae: Track (106.059mm,9.825mm)(108.284mm,12.05mm) on Bottom Layer 
-   Violation between Net Antennae: Track (106.225mm,9.425mm)(108.45mm,11.65mm) on Bottom Layer 
-   Violation between Net Antennae: Track (109.325mm,7.15mm)(109.325mm,11.55mm) on Bottom Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,83.05mm) on Top Overlay And Board Edge 
@@ -569,6 +119,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 500
+Violations Detected : 52
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03
