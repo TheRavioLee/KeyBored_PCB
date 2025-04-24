@@ -1,18 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB\PCB_Clavier.PcbDoc
 Date     : 2025-04-24
-Time     : 11:02:44 AM
+Time     : 4:53:46 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MH24-1(270.25mm,12.8mm) on Multi-Layer on Net NetMH24_1
-   Pad MH23-1(184.769mm,14.75mm) on Multi-Layer on Net NetMH23_1
-   Pad MH22-1(84.269mm,14.75mm) on Multi-Layer on Net NetMH22_1
-   Pad MH21-1(34.625mm,33.8mm) on Multi-Layer on Net NetMH21_1
-   Pad MH20-1(10.625mm,33.8mm) on Multi-Layer on Net NetMH20_1
-   Pad MH19-1(279.975mm,52.875mm) on Multi-Layer on Net NetMH19_1
-   Pad MH18-1(255.975mm,52.875mm) on Multi-Layer on Net NetMH18_1
-   Pad MH17-1(282.125mm,91mm) on Multi-Layer on Net NetMH17_1
-   Pad MH16-1(258.125mm,91mm) on Multi-Layer on Net NetMH16_1
    Pad MH10-1(192mm,7mm) on Multi-Layer on Net NetMH10_1
    Pad MH9-1(117mm,7mm) on Multi-Layer on Net NetMH9_1
    Pad MH8-1(27.15mm,12.8mm) on Multi-Layer on Net NetMH8_1
@@ -23,6 +15,14 @@ WARNING: Unplated multi-layer pad(s) detected
    Pad MH3-1(79.675mm,89mm) on Multi-Layer on Net NetMH3_1
    Pad MH2-1(60.625mm,89mm) on Multi-Layer on Net NetMH2_1
    Pad MH1-1(7mm,78mm) on Multi-Layer on Net NetMH1_1
+   Pad MH23-1(184.769mm,14.75mm) on Multi-Layer on Net NetMH23_1
+   Pad MH22-1(84.269mm,14.75mm) on Multi-Layer on Net NetMH22_1
+   Pad MH21-1(34.625mm,33.8mm) on Multi-Layer on Net NetMH21_1
+   Pad MH20-1(10.625mm,33.8mm) on Multi-Layer on Net NetMH20_1
+   Pad MH19-1(279.975mm,52.875mm) on Multi-Layer on Net NetMH19_1
+   Pad MH18-1(255.975mm,52.875mm) on Multi-Layer on Net NetMH18_1
+   Pad MH17-1(282.125mm,91mm) on Multi-Layer on Net NetMH17_1
+   Pad MH16-1(258.125mm,91mm) on Multi-Layer on Net NetMH16_1
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH16-1(258.125mm,91mm) on Multi-Layer 
@@ -114,23 +114,81 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (10.665mm,76.935mm)(24.635mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (101.265mm,95.985mm)(115.235mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (101.34mm,38.835mm)(115.31mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (110.678mm,76.935mm)(124.648mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (115.709mm,57.885mm)(129.679mm,57.885mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (0.15mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (118.05mm,54.55mm)(132.7mm,54.55mm) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (120.315mm,95.985mm)(134.285mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (120.39mm,38.835mm)(134.36mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (127.534mm,19.785mm)(141.504mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (129.728mm,76.935mm)(143.698mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (13.315mm,57.885mm)(27.285mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (134.759mm,57.885mm)(148.729mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (139.365mm,95.985mm)(153.335mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (139.44mm,38.835mm)(153.41mm,38.835mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (0.175mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (14.4mm,27.2mm)(15.5mm,28.3mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (148.778mm,76.935mm)(162.748mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (15.615mm,38.835mm)(29.585mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (153.809mm,57.885mm)(167.779mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (158.415mm,95.985mm)(172.385mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (158.49mm,38.835mm)(172.46mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (167.828mm,76.935mm)(181.798mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (172.859mm,57.885mm)(186.829mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (177.465mm,95.985mm)(191.435mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (177.54mm,38.835mm)(191.51mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (186.878mm,76.935mm)(200.848mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (191.909mm,57.885mm)(205.879mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (196.515mm,95.985mm)(210.485mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (196.59mm,19.785mm)(210.56mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (196.59mm,38.835mm)(210.56mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (205.928mm,76.935mm)(219.898mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (210.959mm,57.885mm)(224.929mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (215.565mm,95.985mm)(229.535mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (215.64mm,19.785mm)(229.61mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (215.64mm,38.835mm)(229.61mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (224.978mm,76.935mm)(238.948mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (230.009mm,57.885mm)(243.979mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (234.615mm,95.985mm)(248.585mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (234.69mm,19.785mm)(248.66mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (234.69mm,38.835mm)(248.66mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (244.028mm,76.935mm)(257.998mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (25.065mm,95.985mm)(39.035mm,95.985mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (250.81mm,78.971mm)(257.45mm,72.331mm) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (253.74mm,19.785mm)(267.71mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (253.74mm,38.835mm)(267.71mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (260.965mm,57.885mm)(274.935mm,57.885mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (0.195mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (261.92mm,84.325mm)(263.15mm,85.555mm) on Bottom Layer 
    Violation between Board Outline Clearance(Cutout Edge): (0.195mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (261.92mm,84.3mm)(261.92mm,84.325mm) on Bottom Layer 
-Rule Violations :8
-
-Processing Rule : Board Clearance Constraint (Gap=0mm) (OnLayer('Top Overlay'))
-Rule Violations :0
-
-Processing Rule : Board Clearance Constraint (Gap=0mm) ((InComponent('S14') AND InComponent('S41') AND InComponent('S42')))
-Rule Violations :0
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (263.19mm,95.985mm)(277.16mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (267.84mm,76.935mm)(281.81mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (272.79mm,19.785mm)(286.76mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (272.79mm,38.835mm)(286.76mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (32.284mm,19.785mm)(46.254mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (34.478mm,76.935mm)(48.448mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (39.509mm,57.885mm)(53.479mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (44.115mm,95.985mm)(58.085mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (44.19mm,38.835mm)(58.16mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (53.528mm,76.935mm)(67.498mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (56.096mm,19.785mm)(70.066mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (58.559mm,57.885mm)(72.529mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (6.015mm,95.985mm)(19.985mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (63.165mm,95.985mm)(77.135mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (63.24mm,38.835mm)(77.21mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (72.578mm,76.935mm)(86.548mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (77.609mm,57.885mm)(91.579mm,57.885mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (8.471mm,19.785mm)(22.441mm,19.785mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (82.215mm,95.985mm)(96.185mm,95.985mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (82.29mm,38.835mm)(96.26mm,38.835mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (91.628mm,76.935mm)(105.598mm,76.935mm) on Top Overlay 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (96.659mm,57.885mm)(110.629mm,57.885mm) on Top Overlay 
+Rule Violations :72
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 58
+Violations Detected : 122
 Waived Violations : 0
 Time Elapsed        : 00:00:05
