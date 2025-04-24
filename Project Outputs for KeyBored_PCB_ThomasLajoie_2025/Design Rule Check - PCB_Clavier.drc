@@ -1,18 +1,18 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB\PCB_Clavier.PcbDoc
-Date     : 2025-04-22
-Time     : 1:57:10 PM
+Date     : 2025-04-24
+Time     : 11:02:44 AM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MH24-1(270.25mm,12.8mm) on Multi-Layer on Net NetMH24_1
-   Pad MH16-1(258.125mm,91mm) on Multi-Layer on Net NetMH16_1
-   Pad MH17-1(282.125mm,91mm) on Multi-Layer on Net NetMH17_1
-   Pad MH18-1(255.975mm,52.875mm) on Multi-Layer on Net NetMH18_1
    Pad MH23-1(184.769mm,14.75mm) on Multi-Layer on Net NetMH23_1
    Pad MH22-1(84.269mm,14.75mm) on Multi-Layer on Net NetMH22_1
    Pad MH21-1(34.625mm,33.8mm) on Multi-Layer on Net NetMH21_1
    Pad MH20-1(10.625mm,33.8mm) on Multi-Layer on Net NetMH20_1
    Pad MH19-1(279.975mm,52.875mm) on Multi-Layer on Net NetMH19_1
+   Pad MH18-1(255.975mm,52.875mm) on Multi-Layer on Net NetMH18_1
+   Pad MH17-1(282.125mm,91mm) on Multi-Layer on Net NetMH17_1
+   Pad MH16-1(258.125mm,91mm) on Multi-Layer on Net NetMH16_1
    Pad MH10-1(192mm,7mm) on Multi-Layer on Net NetMH10_1
    Pad MH9-1(117mm,7mm) on Multi-Layer on Net NetMH9_1
    Pad MH8-1(27.15mm,12.8mm) on Multi-Layer on Net NetMH8_1
@@ -25,18 +25,41 @@ WARNING: Unplated multi-layer pad(s) detected
    Pad MH1-1(7mm,78mm) on Multi-Layer on Net NetMH1_1
 
 Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH16-1(258.125mm,91mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH17-1(282.125mm,91mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH18-1(255.975mm,52.875mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH19-1(279.975mm,52.875mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH20-1(10.625mm,33.8mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH21-1(34.625mm,33.8mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH22-1(84.269mm,14.75mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH23-1(184.769mm,14.75mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer 
+   Violation between Clearance Constraint: (0.008mm < 0.125mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (250.81mm,78.971mm)(257.45mm,72.331mm) on Top Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH10-1(192mm,7mm) on Multi-Layer And Pad S60-1(195.32mm,8.1mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH16-1(258.125mm,91mm) on Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH18-1(255.975mm,52.875mm) on Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer 
    Violation between Clearance Constraint: (Collision < 0.125mm) Between Pad MH20-1(10.625mm,33.8mm) on Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer 
-Rule Violations :4
+Rule Violations :16
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH16-1(258.125mm,91mm) on Multi-Layer Location : [X = 293.125mm][Y = 131mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH17-1(282.125mm,91mm) on Multi-Layer Location : [X = 317.125mm][Y = 131mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH18-1(255.975mm,52.875mm) on Multi-Layer Location : [X = 290.975mm][Y = 92.875mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH19-1(279.975mm,52.875mm) on Multi-Layer Location : [X = 314.975mm][Y = 92.875mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH20-1(10.625mm,33.8mm) on Multi-Layer Location : [X = 45.625mm][Y = 73.8mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH21-1(34.625mm,33.8mm) on Multi-Layer Location : [X = 69.625mm][Y = 73.8mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH22-1(84.269mm,14.75mm) on Multi-Layer Location : [X = 119.269mm][Y = 54.75mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad MH23-1(184.769mm,14.75mm) on Multi-Layer Location : [X = 219.769mm][Y = 54.75mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer Location : [X = 296.148mm][Y = 124.325mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer Location : [X = 293.96mm][Y = 86.212mm]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer Location : [X = 48.61mm][Y = 67.15mm]
    Violation between Short-Circuit Constraint: Between Pad MH10-1(192mm,7mm) on Multi-Layer And Pad S60-1(195.32mm,8.1mm) on Bottom Layer Location : [X = 229.374mm][Y = 47.761mm]
-   Violation between Short-Circuit Constraint: Between Pad MH16-1(258.125mm,91mm) on Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer Location : [X = 296.148mm][Y = 124.325mm]
-   Violation between Short-Circuit Constraint: Between Pad MH18-1(255.975mm,52.875mm) on Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer Location : [X = 293.96mm][Y = 86.212mm]
-   Violation between Short-Circuit Constraint: Between Pad MH20-1(10.625mm,33.8mm) on Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer Location : [X = 48.61mm][Y = 67.15mm]
-Rule Violations :4
+   Violation between Short-Circuit Constraint: Between Pad MH16-1(258.125mm,91mm) on Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer Location : [X = 296.075mm][Y = 124.874mm]
+   Violation between Short-Circuit Constraint: Between Pad MH18-1(255.975mm,52.875mm) on Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer Location : [X = 293.891mm][Y = 86.721mm]
+   Violation between Short-Circuit Constraint: Between Pad MH20-1(10.625mm,33.8mm) on Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer Location : [X = 48.544mm][Y = 67.658mm]
+Rule Violations :15
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Unplated Pad MH10-1(192mm,7mm) on Multi-Layer 
@@ -88,17 +111,26 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,83.05mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,86.55mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,90.05mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (0.93mm < 1mm) Between Arc (1.13mm,93.55mm) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (0.924mm < 1mm) Between Arc (1.13mm,97.05mm) on Top Overlay And Board Edge 
-Rule Violations :5
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S14-1(261.92mm,84.3mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S41-1(259.695mm,46.2mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad S42-1(14.345mm,27.15mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (0.15mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (118.05mm,54.55mm)(132.7mm,54.55mm) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (0.175mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (14.4mm,27.2mm)(15.5mm,28.3mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (250.81mm,78.971mm)(257.45mm,72.331mm) on Top Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (0.195mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (261.92mm,84.325mm)(263.15mm,85.555mm) on Bottom Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (0.195mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (261.92mm,84.3mm)(261.92mm,84.325mm) on Bottom Layer 
+Rule Violations :8
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (OnLayer('Top Overlay'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) ((InComponent('S14') AND InComponent('S41') AND InComponent('S42')))
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 32
+Violations Detected : 58
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:05
