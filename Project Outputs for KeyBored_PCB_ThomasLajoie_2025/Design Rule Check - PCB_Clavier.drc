@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Thomas\Documents\Projet DEC - 2025\KeyBored_PCB\PCB_Clavier.PcbDoc
-Date     : 2025-04-24
-Time     : 4:53:46 PM
+Date     : 2025-04-25
+Time     : 1:13:52 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MH24-1(270.25mm,12.8mm) on Multi-Layer on Net NetMH24_1
@@ -119,7 +119,6 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (101.34mm,38.835mm)(115.31mm,38.835mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (110.678mm,76.935mm)(124.648mm,76.935mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (115.709mm,57.885mm)(129.679mm,57.885mm) on Top Overlay 
-   Violation between Board Outline Clearance(Cutout Edge): (0.15mm < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (118.05mm,54.55mm)(132.7mm,54.55mm) on Top Layer 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (120.315mm,95.985mm)(134.285mm,95.985mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (120.39mm,38.835mm)(134.36mm,38.835mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (127.534mm,19.785mm)(141.504mm,19.785mm) on Top Overlay 
@@ -183,12 +182,12 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (82.29mm,38.835mm)(96.26mm,38.835mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (91.628mm,76.935mm)(105.598mm,76.935mm) on Top Overlay 
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.2mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Track (96.659mm,57.885mm)(110.629mm,57.885mm) on Top Overlay 
-Rule Violations :72
+Rule Violations :71
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 122
+Violations Detected : 121
 Waived Violations : 0
 Time Elapsed        : 00:00:05
